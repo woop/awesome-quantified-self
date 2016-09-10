@@ -27,18 +27,25 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   * [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) - Automation and Event Triggering Application for Android.
   * [Exist](https://exist.io/) - Track Everything in One Place.
   * [Track This For Me](https://www.trackthisfor.me/) - Multi-Purpose Tracking Platform.
+  * [Gyroscope](https://gyrosco.pe/) - Quantified Self Health Dashboard.
+  * [Reporter](http://www.reporter-app.com/) - Tracking App That Collects Data Through Random Surveys.
 * Sports and Activities
   * [Google Fit](https://www.google.com/fit) - Open Ecosystem to Store, Access, and Manage Fitness Data.
-  * [Runkeeper](http://runkeeper.com) - Outdoor Fitness Activity Tracker.
+  * [Runkeeper](http://runkeeper.com/) - Outdoor Fitness Activity Tracker.
+  * [Endomondo](https://www.endomondo.com/) - Sport and Health Statistics Tracker (iOS & Android).
+  * [Runtastic](ttps://www.runtastic.com/) - Running, Cycling, & Fitness GPS Tracker (iOS & Android).
   * [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en) - Multi-Purpose Tracker for Android.
+  * [Moves](https://moves-app.com/) - Activity Diary for Your Life (iOS & Android).
 * Diet
   * [MyFitnessPal](http://www.myfitnesspal.com/) - Food Tracking and Diet Plan App.
+  * [Fat Secret](https://www.fatsecret.com/) - Calorie Counter and Diet Tracker for Weight Loss.
+  * [Calorie Counter](https://www.caloriecount.com/) - Nutritional Database and Calorie Counting App.
 * Time
   * [Toggl](https://toggl.com/) - Time Tracker & Employee Timesheet Software.
-  * [Manic Time](http://www.manictime.com/) - ManicTime Is Automatic Time Tracking Software Which Tracks Computer Usage and Stores All Data Locally.
   * [Timesheet](http://timesheet.rauscha.com/) - Android Time Tracker.
-  * [Hours Time Tracker](https://www.hourstimetracking.com/) - iOS Time Tracking App.
+  * [Hours Time Tracker](https://www.hourstimetracking.com/) - Time Tracking App (iOS).
   * [Rescue Time](https://www.rescuetime.com/) - Automatically Tracks Where You Spend Your Time On Any Platform.
+  * [Manic Time](http://www.manictime.com/) - ManicTime Is Automatic Time Tracking Software Which Tracks Computer Usage and Stores All Data Locally.
 * Wealth
   * [Mint](www.mint.com) - Manage Your Money, Pay Your Bills and Track Your Credit Score.
   * [Personal Capital](https://www.personalcapital.com/) - Financial Software and Wealth Management.
@@ -53,8 +60,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [TomTom](https://www.tomtom.com/en_us/sports/fitness-trackers/) - Fitness Trackers and Watches.
 * [Jawbone](https://jawbone.com/) - Fitness Trackers for a Healthier You.
 * [Withings](http://www.withings.com/) - Activity Tracking and Connected Devices.
+* [Nike Fuel](https://secure-nikeplus.nike.com/plus/what_is_fuel/) - Universal Activity Tracking Devices.
 * [Strava](https://www.strava.com/) - Athletic Activity Tracking and Social Network.
 * [Misfit](https://misfit.com/) - Wearable Tracking Devices.
+* [Pebble](https://www.pebble.com/) - Smart Watches That Works With iOS and Android Devices.
 * [Wahoo](http://wahoofitness.com/) - Connected Cycling, Running, and Fitness Devices.
 * [Hexo Skin](http://www.hexoskin.com/) - Biometric Shirts.
 * [Whoop](http://whoop.com/) - Athletic Performance Monitoring.
