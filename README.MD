@@ -2,7 +2,17 @@
 
 > Curated list of awesome quantified self resources
 
-## Websites & Resources:
+## Contents
+
+  - [Resources](#websites-and-resources)
+  - [Research](#research)
+  - [Time Tracking](#time-tracking)
+  - [Fitness Trackers and Wearable Technology](#fitness-trackers-and-wearable-technology)
+  - [Platforms](#platforms)
+  - [Open Source](#open-source)
+  - [Money](#money)
+
+## Websites and Resources
 
 - [Quantified Self](http://quantifiedself.com/) - Quantified Self Official Site.
 - [Lifestream Blog](http://lifestreamblog.com/) - Social Data Aggregation, Lifelogging, Quantified Self and Digital Legacy.
@@ -10,7 +20,7 @@
 - [Wearables Database](http://vandrico.com/wearables/) - List of Wearables Available for Every Body Part.
 - [Wolfram Connected Devices Project](http://devices.wolfram.com/) - IoT (and QS) Device List.
 
-## Research & Data
+## Research
 
 - [23andMe](https://www.23andme.com/) - DNA Genetic Testing & Analysis.
 - [Open Humans](https://www.openhumans.org/) - Data Sharing & Project Collaboration.
@@ -26,7 +36,7 @@
 - [Hours Time Tracker](https://www.hourstimetracking.com/) - iOS Time Tracking App.
 - [Rescue Time](https://www.rescuetime.com/) - Personal Analytics Service That Shows You How You Spend Your Time and Provides Tools to Help You Be More Productive.
 
-## Fitness Trackers & Wearable Technology
+## Fitness Trackers and Wearable Technology
 
 - [Fitbit](www.fitbit.com) - Activity Trackers & More.
 - [Google Fit](https://www.google.com/fit) - Google Fit Is an Open Ecosystem That Makes It Easy to Store, Access, and Manage Fitness Data.
