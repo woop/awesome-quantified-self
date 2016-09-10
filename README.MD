@@ -4,7 +4,7 @@
 
 ## Contents
 
-  - [Resources](#websites-and-resources)
+  - [Websites and Resources](#websites-and-resources)
   - [Research](#research)
   - [Time Tracking](#time-tracking)
   - [Fitness Trackers and Wearable Technology](#fitness-trackers-and-wearable-technology)
