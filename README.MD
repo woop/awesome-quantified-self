@@ -23,7 +23,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Applications and Platforms
 - General
 	- [Instant](http://instantapp.today/) - Track All of Your Daily Activies Automatically.
-	- [Nomie](http://nomie.io/) - Privately Track Events in Your Life with Your iOS or Android Device.
+	- [Nomie](http://nomie.io/) - Privately Track Events in Your Life  (iOS & Android).
 	- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) - Automation and Event Triggering Application for Android.
 	- [Exist](https://exist.io/) - Track Everything in One Place.
 	- [Track This For Me](https://www.trackthisfor.me/) - Multi-Purpose Tracking Platform.
@@ -45,7 +45,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 	- [Timesheet](http://timesheet.rauscha.com/) - Android Time Tracker.
 	- [Hours Time Tracker](https://www.hourstimetracking.com/) - Time Tracking App (iOS).
 	- [Rescue Time](https://www.rescuetime.com/) - Automatically Tracks Where You Spend Your Time On Any Platform.
-	- [Manic Time](http://www.manictime.com/) - ManicTime Is Automatic Time Tracking Software Which Tracks Computer Usage and Stores All Data Locally.
+	- [Manic Time](http://www.manictime.com/) - Automatic Time Tracking Software Which Tracks Computer Usage.
 - Sleep
 	- [Sleep as Android](http://sleep.urbandroid.org/) - Full Featured Sleep Tracker With Wearable Integration (Android)
 	- [SleepBot](https://mysleepbot.com/) - Smart Alarm and Sleep Tracker (Android)
