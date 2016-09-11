@@ -46,6 +46,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   * [Hours Time Tracker](https://www.hourstimetracking.com/) - Time Tracking App (iOS).
   * [Rescue Time](https://www.rescuetime.com/) - Automatically Tracks Where You Spend Your Time On Any Platform.
   * [Manic Time](http://www.manictime.com/) - ManicTime Is Automatic Time Tracking Software Which Tracks Computer Usage and Stores All Data Locally.
+* Sleep
+  * [Sleep as Android](http://sleep.urbandroid.org/) - Full Featured Sleep Tracker With Wearable Integration (Android)
+  * [SleepBot](https://mysleepbot.com/) - Smart Alarm and Sleep Tracker (Android)
+  * [Sleep Cycle](https://www.sleepcycle.com/) - Intelligent Alarm Clock and Sleep Tracker (iOS)
+* Health
+  * [CureTogether](http://curetogether.com/) - Health Self Tracking and Collaborative Network.
+  * [Symple](http://www.sympleapp.com/) - Symptom Journal and Health Tracker.
 * Wealth
   * [Mint](www.mint.com) - Manage Your Money, Pay Your Bills and Track Your Credit Score.
   * [Personal Capital](https://www.personalcapital.com/) - Financial Software and Wealth Management.
