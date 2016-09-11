@@ -9,7 +9,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Websites and Resources](#websites-and-resources)
 - [Applications and Platforms](#applications-and-platforms)
 - [Devices and Wearables](#devices-and-wearables)
-- [Research and Data Analysis](#research-and-data-analysis)
+- [Research and Data Analysis](#research-and-analysis)
 - [Open Source Projects](#open-source-projects)
 
 ## Websites and Resources
