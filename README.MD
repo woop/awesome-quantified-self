@@ -33,7 +33,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 	- [Google Fit](https://www.google.com/fit) - Open Ecosystem to Store, Access, and Manage Fitness Data.
 	- [Runkeeper](http://runkeeper.com/) - Outdoor Fitness Activity Tracker.
 	- [Endomondo](https://www.endomondo.com/) - Sport and Health Statistics Tracker (iOS & Android).
-	- [Runtastic](ttps://www.runtastic.com/) - Running, Cycling, & Fitness GPS Tracker (iOS & Android).
+	- [Runtastic](https://www.runtastic.com/) - Running, Cycling, & Fitness GPS Tracker (iOS & Android).
 	- [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en) - Multi-Purpose Tracker for Android.
 	- [Moves](https://moves-app.com/) - Activity Diary for Your Life (iOS & Android).
 - Diet
