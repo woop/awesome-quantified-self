@@ -40,7 +40,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 	- [Fat Secret](https://www.fatsecret.com/) - Calorie Counter and Diet Tracker for Weight Loss (iOS & Android).
 	- [Calorie Counter](https://www.caloriecount.com/) - Nutritional Database and Calorie Counting App (iOS & Android).
 - Time
-	- [Toggl](https://toggl.com/) - Time Tracker & Employee Timesheet Software (iOS & Android).
+	- [Toggl](https://toggl.com/) - Time Tracker and Employee Timesheet Software (iOS & Android).
 	- [Timesheet](http://timesheet.rauscha.com/) - Android Time Tracker (Android).
 	- [Hours Time Tracker](https://www.hourstimetracking.com/) - Awesome Time Tracking App (iOS).
 	- [Rescue Time](https://www.rescuetime.com/) - Automatically Tracks Where You Spend Your Time (Mac, Windows, Android, Linux).
@@ -96,7 +96,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Open Humans](https://www.openhumans.org/) - Data Sharing and Project Collaboration.
 - [Enlis](https://www.enlis.com/personal_edition.html) - Software to Organize and Analyze Your Genomic Data.
 - [DNA Fit](https://www.dnafit.com/) - Genetic Information for Fitness and Nutrition.
-- [Family Tree DNA](https://www.familytreedna.com/) - Genetic Testing for Ancestry, Family History & Genealogy.
+- [Family Tree DNA](https://www.familytreedna.com/) - Genetic Testing for Ancestry, Family History and Genealogy.
 - [uBiome](http://ubiome.com/) - Microbiome Sequencing Startup.
 - [Inside Tracker](https://www.insidetracker.com/) - Science-based Blood Analytics for Performance and Health.
 - [Wellness FX](https://www.wellnessfx.com/) - Blood Analysis and Health Checkup.
@@ -104,7 +104,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Open Source Projects
 
 - [Connector DB](https://github.com/connectordb/connectordb) - A Repository for All of Your Quantified-Self Data.
-- [Quantifier](https://github.com/tsubery/quantifier) - A Quantified-Self App That Tracks Various Fitness & Productivity Metrics.
+- [Quantifier](https://github.com/tsubery/quantifier) - A Quantified-Self App That Tracks Various Fitness and Productivity Metrics.
 - [Fluxtream](https://github.com/fluxtream/fluxtream-app) - An Open-Source Non-Profit Personal Data Visualization Framework.
 
 ## License
