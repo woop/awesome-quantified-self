@@ -16,8 +16,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Quantified Self](http://quantifiedself.com/) - Quantified Self Official Site.
 - [Lifestream Blog](http://lifestreamblog.com/) - Social Data Aggregation, Lifelogging, Quantified Self and Digital Legacy.
-- [Flowing Data](http://flowingdata.com/category/self-surveillance/) - News and Articles About Self Surveilance and Quantification.
-- [Wearables Database](http://vandrico.com/wearables/) - List of Wearables Available for Every Body Part.
+- [Flowing Data](http://flowingdata.com/category/self-surveillance/) - News and Articles About Self Surveillance and Quantification.
+- [Wearables Database](http://vandrico.com/wearables/) - Awesome List of Wearables Available per Body Part.
 - [Wolfram Connected Devices Project](http://devices.wolfram.com/) - IoT (and QS) Device List.
 
 ## Applications and Platforms
@@ -47,9 +47,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 	- [Rescue Time](https://www.rescuetime.com/) - Automatically Tracks Where You Spend Your Time On Any Platform.
 	- [Manic Time](http://www.manictime.com/) - Automatic Time Tracking Software Which Tracks Computer Usage.
 - Sleep
-	- [Sleep as Android](http://sleep.urbandroid.org/) - Full Featured Sleep Tracker With Wearable Integration (Android)
-	- [SleepBot](https://mysleepbot.com/) - Smart Alarm and Sleep Tracker (Android)
-	- [Sleep Cycle](https://www.sleepcycle.com/) - Intelligent Alarm Clock and Sleep Tracker (iOS)
+	- [Sleep as Android](http://sleep.urbandroid.org/) - Full Featured Sleep Tracker With Wearable Integration (Android).
+	- [SleepBot](https://mysleepbot.com/) - Smart Alarm and Sleep Tracker (Android).
+	- [Sleep Cycle](https://www.sleepcycle.com/) - Intelligent Alarm Clock and Sleep Tracker (iOS).
 - Health
 	- [CureTogether](http://curetogether.com/) - Health Self Tracking and Collaborative Network.
 	- [Symple](http://www.sympleapp.com/) - Symptom Journal and Health Tracker.
