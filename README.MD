@@ -27,6 +27,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 	- [Exist](https://exist.io/) - Track Everything in One Place (iOS & Android).
 	- [Track This For Me](https://www.trackthisfor.me/) - Multi-Purpose Tracking Platform (Android).
 	- [Gyroscope](https://gyrosco.pe/) - Quantified Self Health Dashboard (iOS & Android).
+	- [IoTool](https://iotool.io/) - Smartphone IoT Platform. Automation and Data Collection.
 - Activity
 	- [Google Fit](https://www.google.com/fit) - Open Ecosystem to Store, Access, and Manage Fitness Data (Android).
 	- [Runkeeper](http://runkeeper.com/) - Outdoor Fitness Activity Tracker (iOS & Android).
