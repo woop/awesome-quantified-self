@@ -106,6 +106,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Open Source Projects
 
+- [Open mHealth](http://www.openmhealth.org/) - Open Source Health Data Integration Tools.
 - [Connector DB](https://github.com/connectordb/connectordb) - A Repository for All of Your Quantified-Self Data.
 - [Quantifier](https://github.com/tsubery/quantifier) - A Quantified-Self App That Tracks Various Fitness and Productivity Metrics.
 - [Fluxtream](https://github.com/fluxtream/fluxtream-app) - An Open-Source Non-Profit Personal Data Visualization Framework.
