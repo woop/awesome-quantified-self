@@ -73,6 +73,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 	- [Workflow](https://my.workflow.is/) - Powerful Automation App (iOS).
 	- [If This Then That (IFTTT)](https://ifttt.com/) - Awesome Conditional Automation Platform.
 	- [Zapier](https://zapier.com/) - Automate Tasks Between Apps.
+- Goals
+	- [GoalsOnTrack](http://www.goalsontrack.com/) - Web-based Goal Setting and Tracking Software (iOS & Android).
+	- [Lifetick](https://lifetick.com/) - Online Goal Tracking Platform.
+	- [stickK](http://www.stickk.com/) - Goal Tracking with a Monetary Commitment.
+	- [Beeminder](https://www.beeminder.com/) - Goal Tracking with a Monetary Commitment. Integrates With Many Devices and Apps.
 
 ## Devices and Wearables
 
