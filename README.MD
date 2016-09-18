@@ -102,6 +102,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [uBiome](http://ubiome.com/) - Microbiome Sequencing Startup.
 - [Inside Tracker](https://www.insidetracker.com/) - Science-based Blood Analytics for Performance and Health.
 - [Wellness FX](https://www.wellnessfx.com/) - Blood Analysis and Health Checkup.
+- [Human API](http://humanapi.co/) - Health Data Integration Platform.
 
 ## Open Source Projects
 
