@@ -29,6 +29,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 	- [Gyroscope](https://gyrosco.pe/) - Quantified Self Health Dashboard (iOS & Android).
 	- [IoTool](https://iotool.io/) - Smartphone IoT Platform. Automation and Data Collection.
 	- [Apple Health](http://www.apple.com/ios/health/) - Multi-Purpose Tracking Platform for Apple Devices. Tracks Activities, Sleep, Nutrition, Mindfulness, and Other Metrics.
+	- [Validic](https://validic.com/) - Cloud-Based Platform That Connects Patient-Recorded Data From Digital Health Applications, Devices and Wearables.
 - Activity
 	- [Google Fit](https://www.google.com/fit) - Open Ecosystem to Store, Access, and Manage Fitness Data (Android).
 	- [Runkeeper](http://runkeeper.com/) - Outdoor Fitness Activity Tracker (iOS & Android).
