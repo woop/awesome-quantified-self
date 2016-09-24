@@ -68,6 +68,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - Data Collection
 	- [AskMeEvery](https://www.askmeevery.com/) - Automated Data Entry Through Email or Text Questions.
 	- [Reporter](http://www.reporter-app.com/) - Tracking App That Collects Data Through Random Surveys (iOS).
+	- [Logisit](http://www.logsit.com/) - Quantified Self and Lifelogging App to track the things you've done (iOS).
 - Heart
 	- [Cardiio](http://www.cardiio.com/) - Touchless Heart Rate Monitor (iOS).
 	- [Instant Heart Rate](http://www.azumio.com/s/instantheartrate/index.html) - Fast and Accurate Mobile Heart Rate Monitor (iOS, Android, Windows).
