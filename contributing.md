@@ -11,6 +11,7 @@ Ensure your pull request adheres to the following guidelines:
 - The pull request should have a meaningful title and include a link to the package / resource and why it's awesome.
 - Make an individual pull request for each suggestion.
 - Use the following format: `[resource](link) - Description.`
+- Use [title-casing](http://titlecapitalization.com) (AP style).
 - Additions should be added to the bottom of the relevant category.
 - New categories, or improvements to the existing categorization are welcome.
 - Link to the GitHub repo, not npmjs.com.
