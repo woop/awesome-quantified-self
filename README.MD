@@ -24,9 +24,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - General
 	- [Instant](http://instantapp.today/) - Track All of Your Daily Activities Automatically (iOS & Android).
 	- [Nomie](http://nomie.io/) - Privately Track Events in Your Life (iOS & Android).
-	- [Exist](https://exist.io/) - Track Everything in One Place (iOS & Android).
+	- [Exist](https://exist.io/) - Track Everything in One Place (Web, iOS & Android).
 	- [Track This For Me](https://www.trackthisfor.me/) - Multi-Purpose Tracking Platform (Android).
-	- [Gyroscope](https://gyrosco.pe/) - Quantified Self Health Dashboard (iOS & Android).
+	- [Gyroscope](https://gyrosco.pe/) - Quantified Self Health Dashboard (Web & iOS).
 	- [IoTool](https://iotool.io/) - Smartphone IoT Platform. Automation and Data Collection.
 	- [Apple Health](http://www.apple.com/ios/health/) - Multi-Purpose Tracking Platform for Apple Devices. Tracks Activities, Sleep, Nutrition, Mindfulness, and Other Metrics.
 	- [Validic](https://validic.com/) - Cloud-Based Platform That Connects Patient-Recorded Data From Digital Health Applications, Devices and Wearables.
