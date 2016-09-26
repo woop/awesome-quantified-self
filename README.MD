@@ -24,13 +24,14 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - General
 	- [Instant](http://instantapp.today/) - Track All of Your Daily Activities Automatically (iOS & Android).
 	- [Nomie](http://nomie.io/) - Privately Track Events in Your Life (iOS & Android).
-	- [Exist](https://exist.io/) - Track Everything in One Place (iOS & Android).
+	- [Exist](https://exist.io/) - Track Everything in One Place (Web, iOS & Android).
 	- [Track This For Me](https://www.trackthisfor.me/) - Multi-Purpose Tracking Platform (Android).
-	- [Gyroscope](https://gyrosco.pe/) - Quantified Self Health Dashboard (iOS & Android).
+	- [Gyroscope](https://gyrosco.pe/) - Quantified Self Health Dashboard (Web & iOS).
 	- [IoTool](https://iotool.io/) - Smartphone IoT Platform. Automation and Data Collection.
 	- [Apple Health](http://www.apple.com/ios/health/) - Multi-Purpose Tracking Platform for Apple Devices. Tracks Activities, Sleep, Nutrition, Mindfulness, and Other Metrics.
 	- [Validic](https://validic.com/) - Cloud-Based Platform That Connects Patient-Recorded Data From Digital Health Applications, Devices and Wearables.
 	- [FitnessSyncer](https://www.fitnesssyncer.com/) - Joins Health and Fitness Data into a Single Centralized Platform.
+	- [Zenobase](https://zenobase.com/) - Store, Aggregate and Visualize Your Data from Multiple 3rd Party Sources (Web).
 - Activity
 	- [Google Fit](https://www.google.com/fit) - Open Ecosystem to Store, Access, and Manage Fitness Data (Android).
 	- [Runkeeper](http://runkeeper.com/) - Outdoor Fitness Activity Tracker (iOS & Android).
@@ -67,6 +68,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - Data Collection
 	- [AskMeEvery](https://www.askmeevery.com/) - Automated Data Entry Through Email or Text Questions.
 	- [Reporter](http://www.reporter-app.com/) - Tracking App That Collects Data Through Random Surveys (iOS).
+	- [Logisit](http://www.logsit.com/) - Quantified Self and Lifelogging App to Track the Things You've Done (iOS).
 - Heart
 	- [Cardiio](http://www.cardiio.com/) - Touchless Heart Rate Monitor (iOS).
 	- [Instant Heart Rate](http://www.azumio.com/s/instantheartrate/index.html) - Fast and Accurate Mobile Heart Rate Monitor (iOS, Android, Windows).
@@ -80,6 +82,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 	- [Lifetick](https://lifetick.com/) - Online Goal Tracking Platform.
 	- [stickK](http://www.stickk.com/) - Goal Tracking with a Monetary Commitment.
 	- [Beeminder](https://www.beeminder.com/) - Goal Tracking with a Monetary Commitment. Integrates With Many Devices and Apps.
+- Habits
+    - [Habitica](https://habitica.com) - A Habit Tracker App Which Treats Your Goals Like a Role Playing Game (Web, iOS & Android).
+    - [HabitBull](http://www.habitbull.com/) - A Simple Mobile Habit Tracker App to Build and Track Streaks (iOS & Android).
+    - [Strides](http://www.stridesapp.com/) - App to Track Your Goals, Habits and Projects with SMART Goal Setting (Web, iOS).
+    - [Habit List](http://habitlist.com/) - Create Good Habits, Break Bad Ones, Build a Better You (iOS).
 
 ## Devices and Wearables
 
