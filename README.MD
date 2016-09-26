@@ -82,6 +82,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 	- [Lifetick](https://lifetick.com/) - Online Goal Tracking Platform.
 	- [stickK](http://www.stickk.com/) - Goal Tracking with a Monetary Commitment.
 	- [Beeminder](https://www.beeminder.com/) - Goal Tracking with a Monetary Commitment. Integrates With Many Devices and Apps.
+- Habits
+    - [Habitica](https://habitica.com) - A Habit Tracker App Which Treats Your Goals Like a Role Playing Game (Web, iOS & Android).
+    - [HabitBull](http://www.habitbull.com/) - A Simple Mobile Habit Tracker App to Build and Track Streaks (iOS & Android).
+    - [Strides](http://www.stridesapp.com/) - App to Track Your Goals, Habits and Projects with SMART Goal Setting (Web, iOS).
+    - [Habit List](http://habitlist.com/) - Create Good Habits, Break Bad Ones, Build a Better You (iOS).
 
 ## Devices and Wearables
 
