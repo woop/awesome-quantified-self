@@ -31,7 +31,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 	- [Apple Health](http://www.apple.com/ios/health/) - Multi-Purpose Tracking Platform for Apple Devices. Tracks Activities, Sleep, Nutrition, Mindfulness, and Other Metrics.
 	- [Validic](https://validic.com/) - Cloud-Based Platform That Connects Patient-Recorded Data From Digital Health Applications, Devices and Wearables.
 	- [FitnessSyncer](https://www.fitnesssyncer.com/) - Joins Health and Fitness Data into a Single Centralized Platform.
-	- [Zenobase](https://zenobase.com/) - Store, aggregate and visualize your data from multiple 3rd party sources (Web).
+	- [Zenobase](https://zenobase.com/) - Store, Aggregate and Visualize Your Data from Multiple 3rd Party Sources (Web).
 - Activity
 	- [Google Fit](https://www.google.com/fit) - Open Ecosystem to Store, Access, and Manage Fitness Data (Android).
 	- [Runkeeper](http://runkeeper.com/) - Outdoor Fitness Activity Tracker (iOS & Android).
@@ -68,7 +68,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - Data Collection
 	- [AskMeEvery](https://www.askmeevery.com/) - Automated Data Entry Through Email or Text Questions.
 	- [Reporter](http://www.reporter-app.com/) - Tracking App That Collects Data Through Random Surveys (iOS).
-	- [Logisit](http://www.logsit.com/) - Quantified Self and Lifelogging App to track the things you've done (iOS).
+	- [Logisit](http://www.logsit.com/) - Quantified Self and Lifelogging App to Track the Things You've Done (iOS).
 - Heart
 	- [Cardiio](http://www.cardiio.com/) - Touchless Heart Rate Monitor (iOS).
 	- [Instant Heart Rate](http://www.azumio.com/s/instantheartrate/index.html) - Fast and Accurate Mobile Heart Rate Monitor (iOS, Android, Windows).
