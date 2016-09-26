@@ -21,25 +21,27 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Lifestream Blog](http://lifestreamblog.com/) - Social Data Aggregation, Lifelogging, Quantified Self and Digital Legacy.
 
 ## Applications and Platforms
-- General
-	- [Instant](http://instantapp.today/) - Track All of Your Daily Activities Automatically (iOS & Android).
-	- [Nomie](http://nomie.io/) - Privately Track Events in Your Life (iOS & Android).
-	- [Exist](https://exist.io/) - Track Everything in One Place (Web, iOS & Android).
-	- [Track This For Me](https://www.trackthisfor.me/) - Multi-Purpose Tracking Platform (Android).
-	- [Gyroscope](https://gyrosco.pe/) - Quantified Self Health Dashboard (Web & iOS).
-	- [IoTool](https://iotool.io/) - Smartphone IoT Platform. Automation and Data Collection.
+- Aggregators & Dashboards
 	- [Apple Health](http://www.apple.com/ios/health/) - Multi-Purpose Tracking Platform for Apple Devices. Tracks Activities, Sleep, Nutrition, Mindfulness, and Other Metrics.
+	- [Google Fit](https://www.google.com/fit) - Open Ecosystem to Store, Access, and Manage Fitness Data (Android).
+	- [Gyroscope](https://gyrosco.pe/) - Quantified Self Health Dashboard (Web & iOS).
+	- [Exist](https://exist.io/) - Track Everything in One Place (Web, iOS & Android).
+	- [Zenobase](https://zenobase.com/) - Store, Aggregate and Visualize Your Data from Multiple 3rd Party Sources (Web).
 	- [Validic](https://validic.com/) - Cloud-Based Platform That Connects Patient-Recorded Data From Digital Health Applications, Devices and Wearables.
 	- [FitnessSyncer](https://www.fitnesssyncer.com/) - Joins Health and Fitness Data into a Single Centralized Platform.
-	- [Zenobase](https://zenobase.com/) - Store, Aggregate and Visualize Your Data from Multiple 3rd Party Sources (Web).
-- Activity
-	- [Google Fit](https://www.google.com/fit) - Open Ecosystem to Store, Access, and Manage Fitness Data (Android).
+	- [IoTool](https://iotool.io/) - Smartphone IoT Platform. Automation and Data Collection.
+- Tally
+	- [Nomie](http://nomie.io/) - Privately Track Events in Your Life (iOS & Android).
+	- [Track This For Me](https://www.trackthisfor.me/) - Multi-Purpose Tracking Platform (Android).
+	- [Instant](http://instantapp.today/) - Track All of Your Daily Activities Automatically (iOS & Android).
+- Activity & Fitness
 	- [Runkeeper](http://runkeeper.com/) - Outdoor Fitness Activity Tracker (iOS & Android).
 	- [Endomondo](https://www.endomondo.com/) - Sport and Health Statistics Tracker (iOS & Android).
 	- [Runtastic](https://www.runtastic.com/) - Running, Cycling, and Fitness GPS Tracker (iOS & Android).
 	- [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en) - Multi-Purpose Tracker (Android).
 	- [Moves](https://moves-app.com/) - Activity Diary for Your Life (iOS & Android).
 	- [EveryMove Fit](http://everymovefit.com/) - Social Fitness and Goal Tracking Platform (iOS & Android).
+	- [Strava](https://www.strava.com/) - Athletic Activity Tracking and Social Network.
 - Diet
 	- [MyFitnessPal](http://www.myfitnesspal.com/) - Food Tracking and Diet Plan App (iOS & Android).
 	- [Fat Secret](https://www.fatsecret.com/) - Calorie Counter and Diet Tracker for Weight Loss (iOS & Android).
@@ -83,8 +85,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 	- [stickK](http://www.stickk.com/) - Goal Tracking with a Monetary Commitment.
 	- [Beeminder](https://www.beeminder.com/) - Goal Tracking with a Monetary Commitment. Integrates With Many Devices and Apps.
 - Habits
-    - [Habitica](https://habitica.com) - A Habit Tracker App Which Treats Your Goals Like a Role Playing Game (Web, iOS & Android).
-    - [HabitBull](http://www.habitbull.com/) - A Simple Mobile Habit Tracker App to Build and Track Streaks (iOS & Android).
+    - [Habitica](https://habitica.com) - A Habit Tracking App Which Treats Your Goals Like a Role Playing Game (Web, iOS & Android).
+    - [HabitBull](http://www.habitbull.com/) - A Simple Mobile Habit Tracking App to Build and Track Streaks (iOS & Android).
     - [Strides](http://www.stridesapp.com/) - App to Track Your Goals, Habits and Projects with SMART Goal Setting (Web, iOS).
     - [Habit List](http://habitlist.com/) - Create Good Habits, Break Bad Ones, Build a Better You (iOS).
 
@@ -96,7 +98,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Jawbone UP](https://jawbone.com/up) - Fitness Trackers for a Healthier You.
 - [Withings](http://www.withings.com/) - Activity Tracking and Connected Devices.
 - [Nike Fuel](https://secure-nikeplus.nike.com/plus/what_is_fuel/) - Universal Activity Tracking Devices.
-- [Strava](https://www.strava.com/) - Athletic Activity Tracking and Social Network.
 - [Misfit](https://misfit.com/) - Wearable Tracking Devices.
 - [Pebble](https://www.pebble.com/) - Smart Watches That Works With Your Mobile Device.
 - [Wahoo](http://wahoofitness.com/) - Connected Cycling, Running, and Fitness Devices.
