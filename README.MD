@@ -1,6 +1,8 @@
 # Awesome Quantified Self [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Carefully curated list of awesome quantified self resources.
+> Carefully curated list of awesome Quantified Self resources.
+
+The Quantified Self is a movement to incorporate technology into data acquisition on aspects of a person's daily life in terms of inputs (e.g. food consumed, quality of surrounding air), states (e.g. mood, arousal, blood oxygen levels), and performance (mental and physical).
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
@@ -21,74 +23,86 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Lifestream Blog](http://lifestreamblog.com/) - Social Data Aggregation, Lifelogging, Quantified Self and Digital Legacy.
 
 ## Applications and Platforms
-- Aggregators & Dashboards
-	- [Apple Health](http://www.apple.com/ios/health/) - Multi-Purpose Tracking Platform for Apple Devices. Tracks Activities, Sleep, Nutrition, Mindfulness, and Other Metrics.
-	- [Google Fit](https://www.google.com/fit) - Open Ecosystem to Store, Access, and Manage Fitness Data (Android).
-	- [Gyroscope](https://gyrosco.pe/) - Quantified Self Health Dashboard (Web & iOS).
-	- [Exist](https://exist.io/) - Track Everything in One Place (Web, iOS & Android).
-	- [Zenobase](https://zenobase.com/) - Store, Aggregate and Visualize Your Data from Multiple 3rd Party Sources (Web).
-	- [Validic](https://validic.com/) - Cloud-Based Platform That Connects Patient-Recorded Data From Digital Health Applications, Devices and Wearables.
-	- [FitnessSyncer](https://www.fitnesssyncer.com/) - Joins Health and Fitness Data into a Single Centralized Platform.
-	- [IoTool](https://iotool.io/) - Smartphone IoT Platform. Automation and Data Collection.
-- Tally
-	- [Nomie](http://nomie.io/) - Privately Track Events in Your Life (iOS & Android).
-	- [Track This For Me](https://www.trackthisfor.me/) - Multi-Purpose Tracking Platform (Android).
-	- [Instant](http://instantapp.today/) - Track All of Your Daily Activities Automatically (iOS & Android).
-- Activity & Fitness
-	- [Runkeeper](http://runkeeper.com/) - Outdoor Fitness Activity Tracker (iOS & Android).
-	- [Endomondo](https://www.endomondo.com/) - Sport and Health Statistics Tracker (iOS & Android).
-	- [Runtastic](https://www.runtastic.com/) - Running, Cycling, and Fitness GPS Tracker (iOS & Android).
-	- [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en) - Multi-Purpose Tracker (Android).
-	- [Moves](https://moves-app.com/) - Activity Diary for Your Life (iOS & Android).
-	- [EveryMove Fit](http://everymovefit.com/) - Social Fitness and Goal Tracking Platform (iOS & Android).
-	- [Strava](https://www.strava.com/) - Athletic Activity Tracking and Social Network.
-- Diet
-	- [MyFitnessPal](http://www.myfitnesspal.com/) - Food Tracking and Diet Plan App (iOS & Android).
-	- [Fat Secret](https://www.fatsecret.com/) - Calorie Counter and Diet Tracker for Weight Loss (iOS & Android).
-	- [Calorie Counter](https://www.caloriecount.com/) - Nutritional Database and Calorie Counting App (iOS & Android).
-- Time
-	- [Toggl](https://toggl.com/) - Time Tracker and Employee Timesheet Software (iOS & Android).
-	- [Timesheet](http://timesheet.rauscha.com/) - Android Time Tracker (Android).
-	- [Hours Time Tracker](https://www.hourstimetracking.com/) - Awesome Time Tracking App (iOS).
-	- [Rescue Time](https://www.rescuetime.com/) - Automatically Tracks Where You Spend Your Time (Mac, Windows, Android, Linux).
-	- [Manic Time](http://www.manictime.com/) - Automatic Time Tracking Software Which Tracks Computer Usage (Windows).
-	- [Streaks](https://streaksapp.com/) - To Do List That Helps You Form Habits and Track Goals (iOS).
-	- [Moment](https://inthemoment.io/) - Track Time Spent On iPhone and iPad (iOS).
-- Sleep
-	- [Sleep as Android](http://sleep.urbandroid.org/) - Full Featured Sleep Tracker With Wearable Integration (Android).
-	- [SleepBot](https://mysleepbot.com/) - Smart Alarm and Sleep Tracker (iOS & Android).
-	- [Sleep Cycle](https://www.sleepcycle.com/) - Intelligent Alarm Clock and Sleep Tracker (iOS & Android).
-- Health
-	- [CureTogether](http://curetogether.com/) - Health Self Tracking and Collaborative Network.
-	- [Symple](http://www.sympleapp.com/) - Symptom Journal and Health Tracker (iOS).
-- Wealth
-	- [Mint](http://www.mint.com/) - Manage Your Money, Pay Your Bills and Track Your Credit Score.
-	- [Personal Capital](https://www.personalcapital.com/) - Financial Software and Wealth Management.
-	- [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal Home Budget Software.
-	- [GNU Cash](https://www.gnucash.org/) - Personal and Small-Business Financial-Accounting Software.
-	- [Ledger](https://github.com/ledger/ledger) - Simple but Powerful Command Line Accounting.
-- Data Collection
-	- [AskMeEvery](https://www.askmeevery.com/) - Automated Data Entry Through Email or Text Questions.
-	- [Reporter](http://www.reporter-app.com/) - Tracking App That Collects Data Through Random Surveys (iOS).
-	- [Logisit](http://www.logsit.com/) - Quantified Self and Lifelogging App to Track the Things You've Done (iOS).
-- Heart
-	- [Cardiio](http://www.cardiio.com/) - Touchless Heart Rate Monitor (iOS).
-	- [Instant Heart Rate](http://www.azumio.com/s/instantheartrate/index.html) - Fast and Accurate Mobile Heart Rate Monitor (iOS, Android, Windows).
-- Automation
-	- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) - Automation and Event Triggering App (Android).
-	- [Workflow](https://my.workflow.is/) - Powerful Automation App (iOS).
-	- [If This Then That (IFTTT)](https://ifttt.com/) - Awesome Conditional Automation Platform.
-	- [Zapier](https://zapier.com/) - Automate Tasks Between Apps.
-- Goals
-	- [GoalsOnTrack](http://www.goalsontrack.com/) - Web-based Goal Setting and Tracking Software (iOS & Android).
-	- [Lifetick](https://lifetick.com/) - Online Goal Tracking Platform.
-	- [stickK](http://www.stickk.com/) - Goal Tracking with a Monetary Commitment.
-	- [Beeminder](https://www.beeminder.com/) - Goal Tracking with a Monetary Commitment. Integrates With Many Devices and Apps.
-- Habits
-    - [Habitica](https://habitica.com) - A Habit Tracking App Which Treats Your Goals Like a Role Playing Game (Web, iOS & Android).
-    - [HabitBull](http://www.habitbull.com/) - A Simple Mobile Habit Tracking App to Build and Track Streaks (iOS & Android).
-    - [Strides](http://www.stridesapp.com/) - App to Track Your Goals, Habits and Projects with SMART Goal Setting (Web, iOS).
-    - [Habit List](http://habitlist.com/) - Create Good Habits, Break Bad Ones, Build a Better You (iOS).
+### Aggregators & Dashboards
+- [Apple Health](http://www.apple.com/ios/health/) - Multi-Purpose Tracking Platform for Apple Devices. Tracks Activities, Sleep, Nutrition, Mindfulness, and Other Metrics.
+- [Google Fit](https://www.google.com/fit) - Open Ecosystem to Store, Access, and Manage Fitness Data (Android).
+- [Gyroscope](https://gyrosco.pe/) - Quantified Self Health Dashboard (Web & iOS).
+- [Exist](https://exist.io/) - Track Everything in One Place (Web, iOS & Android).
+- [Zenobase](https://zenobase.com/) - Store, Aggregate and Visualize Your Data from Multiple 3rd Party Sources (Web).
+- [Validic](https://validic.com/) - Cloud-Based Platform That Connects Patient-Recorded Data From Digital Health Applications, Devices and Wearables.
+- [FitnessSyncer](https://www.fitnesssyncer.com/) - Joins Health and Fitness Data into a Single Centralized Platform.
+- [IoTool](https://iotool.io/) - Smartphone IoT Platform. Automation and Data Collection.
+
+### Tally
+- [Nomie](http://nomie.io/) - Privately Track Events in Your Life (iOS & Android).
+- [Track This For Me](https://www.trackthisfor.me/) - Multi-Purpose Tracking Platform (Android).
+- [Instant](http://instantapp.today/) - Track All of Your Daily Activities Automatically (iOS & Android).
+
+### Activity & Fitness
+- [Runkeeper](http://runkeeper.com/) - Outdoor Fitness Activity Tracker (iOS & Android).
+- [Endomondo](https://www.endomondo.com/) - Sport and Health Statistics Tracker (iOS & Android).
+- [Runtastic](https://www.runtastic.com/) - Running, Cycling, and Fitness GPS Tracker (iOS & Android).
+- [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en) - Multi-Purpose Tracker (Android).
+- [Moves](https://moves-app.com/) - Activity Diary for Your Life (iOS & Android).
+- [EveryMove Fit](http://everymovefit.com/) - Social Fitness and Goal Tracking Platform (iOS & Android).
+- [Strava](https://www.strava.com/) - Athletic Activity Tracking and Social Network.
+
+### Diet
+- [MyFitnessPal](http://www.myfitnesspal.com/) - Food Tracking and Diet Plan App (iOS & Android).
+- [Fat Secret](https://www.fatsecret.com/) - Calorie Counter and Diet Tracker for Weight Loss (iOS & Android).
+- [Calorie Counter](https://www.caloriecount.com/) - Nutritional Database and Calorie Counting App (iOS & Android).
+
+### Time
+- [Toggl](https://toggl.com/) - Time Tracker and Employee Timesheet Software (iOS & Android).
+- [Timesheet](http://timesheet.rauscha.com/) - Android Time Tracker (Android).
+- [Hours Time Tracker](https://www.hourstimetracking.com/) - Awesome Time Tracking App (iOS).
+- [Rescue Time](https://www.rescuetime.com/) - Automatically Tracks Where You Spend Your Time (Mac, Windows, Android, Linux).
+- [Manic Time](http://www.manictime.com/) - Automatic Time Tracking Software Which Tracks Computer Usage (Windows).
+- [Streaks](https://streaksapp.com/) - To Do List That Helps You Form Habits and Track Goals (iOS).
+- [Moment](https://inthemoment.io/) - Track Time Spent On iPhone and iPad (iOS).
+
+### Sleep
+- [Sleep as Android](http://sleep.urbandroid.org/) - Full Featured Sleep Tracker With Wearable Integration (Android).
+- [SleepBot](https://mysleepbot.com/) - Smart Alarm and Sleep Tracker (iOS & Android).
+- [Sleep Cycle](https://www.sleepcycle.com/) - Intelligent Alarm Clock and Sleep Tracker (iOS & Android).
+
+### Health
+- [CureTogether](http://curetogether.com/) - Health Self Tracking and Collaborative Network.
+- [Symple](http://www.sympleapp.com/) - Symptom Journal and Health Tracker (iOS).
+
+### Wealth
+- [Mint](http://www.mint.com/) - Manage Your Money, Pay Your Bills and Track Your Credit Score.
+- [Personal Capital](https://www.personalcapital.com/) - Financial Software and Wealth Management.
+- [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal Home Budget Software.
+- [GNU Cash](https://www.gnucash.org/) - Personal and Small-Business Financial-Accounting Software.
+- [Ledger](https://github.com/ledger/ledger) - Simple but Powerful Command Line Accounting.
+
+### Data Collection
+- [AskMeEvery](https://www.askmeevery.com/) - Automated Data Entry Through Email or Text Questions.
+- [Reporter](http://www.reporter-app.com/) - Tracking App That Collects Data Through Random Surveys (iOS).
+- [Logisit](http://www.logsit.com/) - Quantified Self and Lifelogging App to Track the Things You've Done (iOS).
+
+### Heart
+- [Cardiio](http://www.cardiio.com/) - Touchless Heart Rate Monitor (iOS).
+- [Instant Heart Rate](http://www.azumio.com/s/instantheartrate/index.html) - Fast and Accurate Mobile Heart Rate Monitor (iOS, Android, Windows).
+
+### Automation
+- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) - Automation and Event Triggering App (Android).
+- [Workflow](https://my.workflow.is/) - Powerful Automation App (iOS).
+- [If This Then That (IFTTT)](https://ifttt.com/) - Awesome Conditional Automation Platform.
+- [Zapier](https://zapier.com/) - Automate Tasks Between Apps.
+
+### Goals
+- [GoalsOnTrack](http://www.goalsontrack.com/) - Web-based Goal Setting and Tracking Software (iOS & Android).
+- [Lifetick](https://lifetick.com/) - Online Goal Tracking Platform.
+- [stickK](http://www.stickk.com/) - Goal Tracking with a Monetary Commitment.
+- [Beeminder](https://www.beeminder.com/) - Goal Tracking with a Monetary Commitment. Integrates With Many Devices and Apps.
+
+### Habits
+- [Habitica](https://habitica.com) - A Habit Tracking App Which Treats Your Goals Like a Role Playing Game (Web, iOS & Android).
+- [HabitBull](http://www.habitbull.com/) - A Simple Mobile Habit Tracking App to Build and Track Streaks (iOS & Android).
+- [Strides](http://www.stridesapp.com/) - App to Track Your Goals, Habits and Projects with SMART Goal Setting (Web, iOS).
+- [Habit List](http://habitlist.com/) - Create Good Habits, Break Bad Ones, Build a Better You (iOS).
 
 ## Devices and Wearables
 
