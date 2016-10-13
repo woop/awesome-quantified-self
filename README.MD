@@ -2,7 +2,7 @@
 
 > Carefully curated list of awesome Quantified Self resources.
 
-The Quantified Self is a movement to incorporate technology into data acquisition on aspects of a person's daily life in terms of inputs (e.g. food consumed, quality of surrounding air), states (e.g. mood, arousal, blood oxygen levels), and performance (mental and physical).
+The [Quantified Self](https://en.m.wikipedia.org/wiki/Quantified_Self) is a movement to incorporate technology into data acquisition on aspects of a person's daily life in terms of inputs (e.g. food consumed, quality of surrounding air), states (e.g. mood, arousal, blood oxygen levels), and performance (mental and physical).
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
@@ -16,129 +16,129 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Websites and Resources
 
-- [Quantified Self](http://quantifiedself.com/) - Quantified Self Official Site.
-- [Flowing Data](http://flowingdata.com/category/self-surveillance/) - Self Surveillance and Quantification News.
-- [Wearables Database](http://vandrico.com/wearables/) - Awesome List of Wearables Available per Body Part.
-- [Wolfram Connected Devices Project](http://devices.wolfram.com/) - IoT and Quantified Self Device List.
-- [Lifestream Blog](http://lifestreamblog.com/) - Social Data Aggregation, Lifelogging, Quantified Self and Digital Legacy.
+- [Quantified Self](http://quantifiedself.com/) - Official website.
+- [Flowing Data](http://flowingdata.com/category/self-surveillance/) - Self surveillance and quantification news.
+- [Wearables Database](http://vandrico.com/wearables/) - Awesome list of wearables available per body part.
+- [Wolfram Connected Devices Project](http://devices.wolfram.com/) - IoT and Quantified Self device list.
+- [Lifestream Blog](http://lifestreamblog.com/) - Social data aggregation, lifelogging, Quantified Self and digital legacy.
 
 ## Applications and Platforms
 ### Aggregators & Dashboards
-- [Apple Health](http://www.apple.com/ios/health/) - Multi-Purpose Tracking Platform for Apple Devices. Tracks Activities, Sleep, Nutrition, Mindfulness, and Other Metrics.
-- [Google Fit](https://www.google.com/fit) - Open Ecosystem to Store, Access, and Manage Fitness Data (Android).
-- [Gyroscope](https://gyrosco.pe/) - Quantified Self Health Dashboard (Web & iOS).
-- [Exist](https://exist.io/) - Track Everything in One Place (Web, iOS & Android).
-- [Zenobase](https://zenobase.com/) - Store, Aggregate and Visualize Your Data from Multiple 3rd Party Sources (Web).
-- [Validic](https://validic.com/) - Cloud-Based Platform That Connects Patient-Recorded Data From Digital Health Applications, Devices and Wearables.
-- [FitnessSyncer](https://www.fitnesssyncer.com/) - Joins Health and Fitness Data into a Single Centralized Platform.
-- [IoTool](https://iotool.io/) - Smartphone IoT Platform. Automation and Data Collection.
+- [Apple Health](http://www.apple.com/ios/health/) - Multi-purpose tracking platform for Apple devices. Tracks activities, sleep, nutrition, mindfulness, and other metrics.
+- [Google Fit](https://www.google.com/fit) - Open ecosystem to store, access, and manage fitness data (Android).
+- [Gyroscope](https://gyrosco.pe/) - Quantified Self health dashboard (web & iOS).
+- [Exist](https://exist.io/) - Track everything in one place (web, iOS & Android).
+- [Zenobase](https://zenobase.com/) - Store, aggregate and visualize your data from multiple 3rd party sources (web).
+- [Validic](https://validic.com/) - Cloud-based platform that connects patient-recorded data from digital health applications, devices, and wearables.
+- [FitnessSyncer](https://www.fitnesssyncer.com/) - Joins health and fitness data into a single centralized platform.
+- [IoTool](https://iotool.io/) - Smartphone IoT platform for automation and data collection.
 
 ### Tally
-- [Nomie](http://nomie.io/) - Privately Track Events in Your Life (iOS & Android).
-- [Track This For Me](https://www.trackthisfor.me/) - Multi-Purpose Tracking Platform (Android).
-- [Instant](http://instantapp.today/) - Track All of Your Daily Activities Automatically (iOS & Android).
+- [Nomie](http://nomie.io/) - Privately track events in your life (iOS & Android).
+- [Track This For Me](https://www.trackthisfor.me/) - Multi-purpose tracking platform (Android).
+- [Instant](http://instantapp.today/) - Track all of your daily activities automatically (iOS & Android).
 
 ### Activity & Fitness
-- [Runkeeper](http://runkeeper.com/) - Outdoor Fitness Activity Tracker (iOS & Android).
-- [Endomondo](https://www.endomondo.com/) - Sport and Health Statistics Tracker (iOS & Android).
-- [Runtastic](https://www.runtastic.com/) - Running, Cycling, and Fitness GPS Tracker (iOS & Android).
-- [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en) - Multi-Purpose Tracker (Android).
-- [Moves](https://moves-app.com/) - Activity Diary for Your Life (iOS & Android).
-- [EveryMove Fit](http://everymovefit.com/) - Social Fitness and Goal Tracking Platform (iOS & Android).
-- [Strava](https://www.strava.com/) - Athletic Activity Tracking and Social Network.
+- [Runkeeper](http://runkeeper.com/) - Outdoor fitness activity tracker (iOS & Android).
+- [Endomondo](https://www.endomondo.com/) - Sport and health statistics tracker (iOS & Android).
+- [Runtastic](https://www.runtastic.com/) - Running, cycling, and fitness GPS tracker (iOS & Android).
+- [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en) - Multi-purpose tracker (Android).
+- [Moves](https://moves-app.com/) - Activity diary for your life (iOS & Android).
+- [EveryMove Fit](http://everymovefit.com/) - Social fitness and goal tracking platform (iOS & Android).
+- [Strava](https://www.strava.com/) - Athletic activity tracking and social network.
 
 ### Diet
-- [MyFitnessPal](http://www.myfitnesspal.com/) - Food Tracking and Diet Plan App (iOS & Android).
-- [Fat Secret](https://www.fatsecret.com/) - Calorie Counter and Diet Tracker for Weight Loss (iOS & Android).
-- [Calorie Counter](https://www.caloriecount.com/) - Nutritional Database and Calorie Counting App (iOS & Android).
+- [MyFitnessPal](http://www.myfitnesspal.com/) - Food tracking and diet plan app (iOS & Android).
+- [Fat Secret](https://www.fatsecret.com/) - Calorie counter and diet tracker for weight loss (iOS & Android).
+- [Calorie Counter](https://www.caloriecount.com/) - Nutritional database and calorie counting app (iOS & Android).
 
 ### Time
-- [Toggl](https://toggl.com/) - Time Tracker and Employee Timesheet Software (iOS & Android).
-- [Timesheet](http://timesheet.rauscha.com/) - Android Time Tracker (Android).
-- [Hours Time Tracker](https://www.hourstimetracking.com/) - Awesome Time Tracking App (iOS).
-- [Rescue Time](https://www.rescuetime.com/) - Automatically Tracks Where You Spend Your Time (Mac, Windows, Android, Linux).
-- [Manic Time](http://www.manictime.com/) - Automatic Time Tracking Software Which Tracks Computer Usage (Windows).
-- [Streaks](https://streaksapp.com/) - To Do List That Helps You Form Habits and Track Goals (iOS).
-- [Moment](https://inthemoment.io/) - Track Time Spent On iPhone and iPad (iOS).
+- [Toggl](https://toggl.com/) - Time tracker and employee timesheet software (iOS & Android).
+- [Timesheet](http://timesheet.rauscha.com/) - Android time tracker (Android).
+- [Hours Time Tracker](https://www.hourstimetracking.com/) - Awesome time tracking app (iOS).
+- [Rescue Time](https://www.rescuetime.com/) - Automatically tracks where you spend your time (Mac, Windows, Android, Linux).
+- [Manic Time](http://www.manictime.com/) - Automatic time tracking software which tracks computer usage (Windows).
+- [Streaks](https://streaksapp.com/) - To do list that helps you form habits and track goals (iOS).
+- [Moment](https://inthemoment.io/) - Track time spent on iPhone and iPad (iOS).
 
 ### Sleep
-- [Sleep as Android](http://sleep.urbandroid.org/) - Full Featured Sleep Tracker With Wearable Integration (Android).
-- [SleepBot](https://mysleepbot.com/) - Smart Alarm and Sleep Tracker (iOS & Android).
-- [Sleep Cycle](https://www.sleepcycle.com/) - Intelligent Alarm Clock and Sleep Tracker (iOS & Android).
+- [Sleep as Android](http://sleep.urbandroid.org/) - Full featured sleep tracker with wearable integration (Android).
+- [SleepBot](https://mysleepbot.com/) - Smart alarm and sleep tracker (iOS & Android).
+- [Sleep Cycle](https://www.sleepcycle.com/) - Intelligent alarm clock and sleep tracker (iOS & Android).
 
 ### Health
-- [CureTogether](http://curetogether.com/) - Health Self Tracking and Collaborative Network.
-- [Symple](http://www.sympleapp.com/) - Symptom Journal and Health Tracker (iOS).
+- [CureTogether](http://curetogether.com/) - Health self tracking and collaborative network.
+- [Symple](http://www.sympleapp.com/) - Symptom journal and health tracker (iOS).
 
 ### Wealth
-- [Mint](http://www.mint.com/) - Manage Your Money, Pay Your Bills and Track Your Credit Score.
-- [Personal Capital](https://www.personalcapital.com/) - Financial Software and Wealth Management.
-- [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal Home Budget Software.
-- [GNU Cash](https://www.gnucash.org/) - Personal and Small-Business Financial-Accounting Software.
-- [Ledger](https://github.com/ledger/ledger) - Simple but Powerful Command Line Accounting.
+- [Mint](http://www.mint.com/) - Manage your money, pay your bills and track your credit score.
+- [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
+- [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
+- [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
+- [Ledger](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 
 ### Data Collection
-- [AskMeEvery](https://www.askmeevery.com/) - Automated Data Entry Through Email or Text Questions.
-- [Reporter](http://www.reporter-app.com/) - Tracking App That Collects Data Through Random Surveys (iOS).
-- [Logisit](http://www.logsit.com/) - Quantified Self and Lifelogging App to Track the Things You've Done (iOS).
+- [AskMeEvery](https://www.askmeevery.com/) - Automated data entry through email or text questions.
+- [Reporter](http://www.reporter-app.com/) - Tracking app that collects data through random surveys (iOS).
+- [Logisit](http://www.logsit.com/) - Quantified self and lifelogging app to track the things you've done (iOS).
 
 ### Heart
-- [Cardiio](http://www.cardiio.com/) - Touchless Heart Rate Monitor (iOS).
-- [Instant Heart Rate](http://www.azumio.com/s/instantheartrate/index.html) - Fast and Accurate Mobile Heart Rate Monitor (iOS, Android, Windows).
+- [Cardiio](http://www.cardiio.com/) - Touchless heart rate monitor (iOS).
+- [Instant Heart Rate](http://www.azumio.com/s/instantheartrate/index.html) - Fast and accurate mobile heart rate monitor (iOS, Android, Windows).
 
 ### Automation
-- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) - Automation and Event Triggering App (Android).
-- [Workflow](https://my.workflow.is/) - Powerful Automation App (iOS).
-- [If This Then That (IFTTT)](https://ifttt.com/) - Awesome Conditional Automation Platform.
-- [Zapier](https://zapier.com/) - Automate Tasks Between Apps.
+- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) - Automation and event triggering app (Android).
+- [Workflow](https://my.workflow.is/) - Powerful automation app (iOS).
+- [If This Then That (IFTTT)](https://ifttt.com/) - Awesome conditional automation platform.
+- [Zapier](https://zapier.com/) - Automate tasks between apps.
 
 ### Goals
-- [GoalsOnTrack](http://www.goalsontrack.com/) - Web-based Goal Setting and Tracking Software (iOS & Android).
-- [Lifetick](https://lifetick.com/) - Online Goal Tracking Platform.
-- [stickK](http://www.stickk.com/) - Goal Tracking with a Monetary Commitment.
-- [Beeminder](https://www.beeminder.com/) - Goal Tracking with a Monetary Commitment. Integrates With Many Devices and Apps.
+- [GoalsOnTrack](http://www.goalsontrack.com/) - Web-based goal setting and tracking software (iOS & Android).
+- [Lifetick](https://lifetick.com/) - Online goal tracking platform.
+- [stickK](http://www.stickk.com/) - Goal tracking with a monetary commitment.
+- [Beeminder](https://www.beeminder.com/) - Goal tracking with a monetary commitment. Integrates with many devices and apps.
 
 ### Habits
-- [Habitica](https://habitica.com) - A Habit Tracking App Which Treats Your Goals Like a Role Playing Game (Web, iOS & Android).
-- [HabitBull](http://www.habitbull.com/) - A Simple Mobile Habit Tracking App to Build and Track Streaks (iOS & Android).
-- [Strides](http://www.stridesapp.com/) - App to Track Your Goals, Habits and Projects with SMART Goal Setting (Web, iOS).
-- [Habit List](http://habitlist.com/) - Create Good Habits, Break Bad Ones, Build a Better You (iOS).
+- [Habitica](https://habitica.com) - A habit tracking app which treats your goals like a role playing game (Web, iOS & Android).
+- [HabitBull](http://www.habitbull.com/) - A simple mobile habit tracking app to build and track streaks (iOS & Android).
+- [Strides](http://www.stridesapp.com/) - App to track your goals, habits and projects with SMART goal setting (Web, iOS).
+- [Habit List](http://habitlist.com/) - Create good habits, break bad ones, build a better you (iOS).
 
 ## Devices and Wearables
 
-- [Fitbit](http://www.fitbit.com/) - Awesome Activity Tracking Wearables to Track Steps, Heart Rate, Quality of Sleep, and Other Personal Metrics.
-- [Garmin](https://buy.garmin.com/en-US/US/wearables/c10002-p1.html) - World-class Range of Wearables.
-- [TomTom](https://www.tomtom.com/en_us/sports/fitness-trackers/) - Fitness Trackers and Watches.
-- [Jawbone UP](https://jawbone.com/up) - Fitness Trackers for a Healthier You.
-- [Withings](http://www.withings.com/) - Activity Tracking and Connected Devices.
-- [Nike Fuel](https://secure-nikeplus.nike.com/plus/what_is_fuel/) - Universal Activity Tracking Devices.
-- [Misfit](https://misfit.com/) - Wearable Tracking Devices.
-- [Pebble](https://www.pebble.com/) - Smart Watches That Works With Your Mobile Device.
-- [Wahoo](http://wahoofitness.com/) - Connected Cycling, Running, and Fitness Devices.
-- [Hexo Skin](http://www.hexoskin.com/) - Awesome Biometric Shirts.
-- [Whoop](http://whoop.com/) - Athletic Performance Monitoring.
-- [Zephyr BioHarness](https://www.zephyranywhere.com/products/bioharness-3) - Performance Monitoring Wearables.
-- [Apple Watch](http://www.apple.com/watch/) - Fitness and Other Health Oriented Tracking.
-- [Amiigo](https://amiigo.com/) - Activity and Gym Workout Trackers.
+- [Fitbit](http://www.fitbit.com/) - Awesome activity tracking wearables to track steps, heart rate, quality of sleep, and other personal metrics.
+- [Garmin](https://buy.garmin.com/en-US/US/wearables/c10002-p1.html) - World-class range of wearables.
+- [TomTom](https://www.tomtom.com/en_us/sports/fitness-trackers/) - Fitness trackers and watches.
+- [Jawbone UP](https://jawbone.com/up) - Fitness trackers for a healthier you.
+- [Withings](http://www.withings.com/) - Activity tracking and connected devices.
+- [Nike Fuel](https://secure-nikeplus.nike.com/plus/what_is_fuel/) - Universal activity tracking devices.
+- [Misfit](https://misfit.com/) - Wearable tracking devices.
+- [Pebble](https://www.pebble.com/) - Smart watches that works with your mobile device.
+- [Wahoo](http://wahoofitness.com/) - Connected cycling, running, and fitness devices.
+- [Hexo Skin](http://www.hexoskin.com/) - Awesome biometric shirts.
+- [Whoop](http://whoop.com/) - Athletic performance monitoring.
+- [Zephyr BioHarness](https://www.zephyranywhere.com/products/bioharness-3) - Performance monitoring wearables.
+- [Apple Watch](http://www.apple.com/watch/) - Fitness and other health oriented tracking.
+- [Amiigo](https://amiigo.com/) - Activity and gym workout trackers.
 
 ## Research and Analysis
 
-- [23andMe](https://www.23andme.com/) - DNA Genetic Testing and Analysis.
-- [Open Humans](https://www.openhumans.org/) - Data Sharing and Project Collaboration.
-- [Enlis](https://www.enlis.com/personal_edition.html) - Software to Organize and Analyze Your Genomic Data.
-- [DNA Fit](https://www.dnafit.com/) - Genetic Information for Fitness and Nutrition.
-- [Family Tree DNA](https://www.familytreedna.com/) - Genetic Testing for Ancestry, Family History and Genealogy.
-- [uBiome](http://ubiome.com/) - Microbiome Sequencing Startup.
-- [Inside Tracker](https://www.insidetracker.com/) - Science-based Blood Analytics for Performance and Health.
-- [Wellness FX](https://www.wellnessfx.com/) - Blood Analysis and Health Checkup.
-- [Human API](http://humanapi.co/) - Health Data Integration Platform.
+- [23andMe](https://www.23andme.com/) - DNA genetic testing and analysis.
+- [Open Humans](https://www.openhumans.org/) - Data sharing and project collaboration.
+- [Enlis](https://www.enlis.com/personal_edition.html) - Software to organize and analyze your genomic data.
+- [DNA Fit](https://www.dnafit.com/) - Genetic information for fitness and nutrition.
+- [Family Tree DNA](https://www.familytreedna.com/) - Genetic testing for ancestry, family history and genealogy.
+- [uBiome](http://ubiome.com/) - Microbiome sequencing startup.
+- [Inside Tracker](https://www.insidetracker.com/) - Science-based blood analytics for performance and health.
+- [Wellness FX](https://www.wellnessfx.com/) - Blood analysis and health checkup.
+- [Human API](http://humanapi.co/) - Health data integration platform.
 
 ## Open Source Projects
 
-- [Open mHealth](http://www.openmhealth.org/) - Open Source Health Data Integration Tools.
-- [Connector DB](https://github.com/connectordb/connectordb) - A Repository for All of Your Quantified-Self Data.
-- [Quantifier](https://github.com/tsubery/quantifier) - A Quantified-Self App That Tracks Various Fitness and Productivity Metrics.
-- [Fluxtream](https://github.com/fluxtream/fluxtream-app) - An Open-Source Non-Profit Personal Data Visualization Framework.
+- [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
+- [Connector DB](https://github.com/connectordb/connectordb) - A repository for all of your quantified-self data.
+- [Quantifier](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
+- [Fluxtream](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
 
 ## License
 
