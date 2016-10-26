@@ -20,7 +20,24 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Flowing Data](http://flowingdata.com/category/self-surveillance/) - Self surveillance and quantification news.
 - [Wearables Database](http://vandrico.com/wearables/) - Awesome list of wearables available per body part.
 - [Wolfram Connected Devices Project](http://devices.wolfram.com/) - IoT and Quantified Self device list.
+- [Quantified Self Instutite](http://www.qsinstitute.org/) - Quantified Self research and innovation projects.
+
+## Articles & Blogs
+
+- [The Personal Analytics of My Life by Stephen Wolfram](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/) - Stephen Wolfram explores the data he has collected on the use of his time.
+- [Measured Me](http://measuredme.com/) - Personal experiment in self-quantification and self-optimization.
 - [Lifestream Blog](http://lifestreamblog.com/) - Social data aggregation, lifelogging, Quantified Self and digital legacy.
+- [Quantified Bob](https://www.quantifiedbob.com/) - Follow one guy's quest for self knowledge, betterment, and optimization through experimentation and personal analytics.
+- [Shadow of the Stream](https://mokestrel.wordpress.com/) - Quantified Self, lifelogging, journaling, education.
+- [QS on Medium](https://medium.com/@quantifiedself) - Quantified Self posts on Medium.
+- [QS on Venture Beat](http://venturebeat.com/tag/quantified-self/) - Quantified Self articles on Venture Beat.
+- [QS on Wired](https://www.wired.com/tag/quantified-self/) - Quantified Self articles on Wired.com.
+- [QS on LiveScience](http://www.livescience.com/topics/quantified-self) - Quantified Self articles on LiveScience.
+
+## Talks
+
+- [Ted Talk: The Quantified Self](https://www.ted.com/talks/gary_wolf_the_quantified_self?language=en) - Ted talk by Gary Wolf on the Quantified Self movement.
+- [Tedx Talk: Wearable Tech Expands Human Potential](https://www.youtube.com/watch?v=FESv2CgyJag) - Lauren Costantini explores what it means to be human in the age of the Quantified Self.
 
 ## Applications and Platforms
 ### Aggregators & Dashboards
