@@ -2,7 +2,7 @@
 
 > Carefully curated list of awesome Quantified Self resources.
 
-The [Quantified Self](https://en.m.wikipedia.org/wiki/Quantified_Self) is a movement to incorporate technology into data acquisition on aspects of a person's daily life in terms of inputs (e.g. food consumed, quality of surrounding air), states (e.g. mood, arousal, blood oxygen levels), and performance (mental and physical).
+The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) is a movement to incorporate technology into data acquisition on aspects of a person's daily life in terms of inputs (e.g. food consumed, quality of surrounding air), states (e.g. mood, arousal, blood oxygen levels), and performance (mental and physical).
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
