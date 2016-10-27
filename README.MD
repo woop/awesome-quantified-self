@@ -63,6 +63,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Moves](https://moves-app.com/) - Activity diary for your life (iOS & Android).
 - [EveryMove Fit](http://everymovefit.com/) - Social fitness and goal tracking platform (iOS & Android).
 - [Strava](https://www.strava.com/) - Athletic activity tracking and social network.
+- [Gym Hero](gymhero.me) - Track workouts, strength training and other fitness exercise (iOS, Web)
 
 ### Diet
 - [MyFitnessPal](http://www.myfitnesspal.com/) - Food tracking and diet plan app (iOS & Android).
@@ -127,6 +128,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Last.fm](http://www.last.fm/) - Track the music you listen to by scrobbling via desktop and mobile apps or by connecting to music services (Web, iOS, Android).
 - [Trak.TV](https://trakt.tv/) - Automatically track TV & movies you're watching (Web, Media Players).
 - [Pocket](https://getpocket.com/)  - Lets you save articles to read later (Web, iOS, Android).
+- 
 
 ## Devices and Wearables
 
