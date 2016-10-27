@@ -122,6 +122,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Strides](http://www.stridesapp.com/) - App to track your goals, habits and projects with SMART goal setting (Web, iOS).
 - [Habit List](http://habitlist.com/) - Create good habits, break bad ones, build a better you (iOS).
 
+### Media Consumption
+- [GoodReads](https://www.goodreads.com/) - Lets users track and rate books and network with other readers. (Web, iOS, Android). 
+- [Last.fm](http://www.last.fm/) - Track the music you listen to by scrobbling via desktop and mobile apps or by connecting to music services (Web, iOS, Android).
+- [Trak.TV](https://trakt.tv/) - Automatically track TV & movies you're watching (Web, Media Players).
+- [Pocket](https://getpocket.com/)  - Lets you save articles to read later (Web, iOS, Android).
+
 ## Devices and Wearables
 
 - [Fitbit](http://www.fitbit.com/) - Awesome activity tracking wearables to track steps, heart rate, quality of sleep, and other personal metrics.
