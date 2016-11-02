@@ -63,6 +63,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Moves](https://moves-app.com/) - Activity diary for your life (iOS & Android).
 - [EveryMove Fit](http://everymovefit.com/) - Social fitness and goal tracking platform (iOS & Android).
 - [Strava](https://www.strava.com/) - Athletic activity tracking and social network.
+- [Gym Hero](gymhero.me) - Track workouts, strength training and other fitness exercise (iOS, Web)
 
 ### Diet
 - [MyFitnessPal](http://www.myfitnesspal.com/) - Food tracking and diet plan app (iOS & Android).
@@ -82,6 +83,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Sleep as Android](http://sleep.urbandroid.org/) - Full featured sleep tracker with wearable integration (Android).
 - [SleepBot](https://mysleepbot.com/) - Smart alarm and sleep tracker (iOS & Android).
 - [Sleep Cycle](https://www.sleepcycle.com/) - Intelligent alarm clock and sleep tracker (iOS & Android).
+- [Pillow](https://neybox.com/pillow/) - Track your sleep from your Apple Watch or iPhone (iOS). 
 
 ### Health
 - [CureTogether](http://curetogether.com/) - Health self tracking and collaborative network.
@@ -120,6 +122,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [HabitBull](http://www.habitbull.com/) - A simple mobile habit tracking app to build and track streaks (iOS & Android).
 - [Strides](http://www.stridesapp.com/) - App to track your goals, habits and projects with SMART goal setting (Web, iOS).
 - [Habit List](http://habitlist.com/) - Create good habits, break bad ones, build a better you (iOS).
+
+### Media Consumption
+- [GoodReads](https://www.goodreads.com/) - Lets users track and rate books and network with other readers. (Web, iOS, Android). 
+- [Last.fm](http://www.last.fm/) - Track the music you listen to by scrobbling via desktop and mobile apps or by connecting to music services (Web, iOS, Android).
+- [Trak.TV](https://trakt.tv/) - Automatically track TV & movies you're watching (Web, Media Players).
+- [Pocket](https://getpocket.com/)  - Lets you save articles to read later (Web, iOS, Android).
+- 
 
 ## Devices and Wearables
 
