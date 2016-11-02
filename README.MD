@@ -128,7 +128,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Last.fm](http://www.last.fm/) - Track the music you listen to by scrobbling via desktop and mobile apps or by connecting to music services (Web, iOS, Android).
 - [Trak.TV](https://trakt.tv/) - Automatically track TV & movies you're watching (Web, Media Players).
 - [Pocket](https://getpocket.com/)  - Lets you save articles to read later (Web, iOS, Android).
-- 
 
 ## Devices and Wearables
 
