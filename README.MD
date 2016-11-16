@@ -147,6 +147,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Zephyr BioHarness](https://www.zephyranywhere.com/products/bioharness-3) - Performance monitoring wearables.
 - [Apple Watch](http://www.apple.com/watch/) - Fitness and other health oriented tracking.
 - [Amiigo](https://amiigo.com/) - Activity and gym workout trackers.
+- [Spire](https://spire.io/) - Activity tracker that determines stress and focus levels by measuring breathing.
 
 ## Research and Analysis
 
