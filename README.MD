@@ -37,6 +37,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [QS on Venture Beat](http://venturebeat.com/tag/quantified-self/) - Quantified Self articles on Venture Beat.
 - [QS on Wired](https://www.wired.com/tag/quantified-self/) - Quantified Self articles on Wired.com.
 - [QS on LiveScience](http://www.livescience.com/topics/quantified-self) - Quantified Self articles on LiveScience.
+- [Gwern](http://www.gwern.net/) - Esoteric blog which includes blinded self-experiments & Quantified Self analyses amongst other topics.
 
 ## Talks
 
