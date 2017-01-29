@@ -140,6 +140,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 - [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
 - [Ledger](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
+- [Credit Karma](https://www.creditkarma.com/) - Lean and reputable credit score tracker
 
 ## Devices and Wearables
 
