@@ -70,7 +70,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Automation
 - [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) - Automation and event triggering app (Android).
-- [Workflow](https://my.workflow.is/) - Powerful automation app (iOS).
+- [Workflow](http://workflow.is/) - Powerful automation app (iOS).
 - [If This Then That (IFTTT)](https://ifttt.com/) - Awesome conditional automation platform.
 - [Zapier](https://zapier.com/) - Automate tasks between apps.
 
