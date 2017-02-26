@@ -54,7 +54,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Moves](https://moves-app.com/) - Activity diary for your life (iOS & Android).
 - [EveryMove Fit](http://everymovefit.com/) - Social fitness and goal tracking platform (iOS & Android).
 - [Strava](https://www.strava.com/) - Athletic activity tracking and social network.
-- [Gym Hero](gymhero.me) - Track workouts, strength training and other fitness exercise (iOS, Web)
+- [Gym Hero](https://gymhero.me/) - Track workouts, strength training and other fitness exercise (iOS, Web)
 
 ### Aggregators & Dashboards
 - [Apple Health](http://www.apple.com/ios/health/) - Multi-purpose tracking platform for Apple devices. Tracks activities, sleep, nutrition, mindfulness, and other metrics.
