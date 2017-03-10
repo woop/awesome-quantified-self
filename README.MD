@@ -114,6 +114,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Cambridge Brain Sciences](http://www.cambridgebrainsciences.com/) - Scientifically proven tools for the assessment of cognitive function.
 - [Quantified Mind](http://www.quantified-mind.com/about) - Tests and experiments to quantify cognitive abilities.
 
+### Mood
+- [MoodCast](https://2appstudio.com/moodcast/) - Keep track of your daily mood & activities (Android).
+- [Daylio](http://daylio.webflow.io/) - Capture your day without writing down a single line (iOS & Android).
+
 ### Sleep
 - [Sleep as Android](http://sleep.urbandroid.org/) - Full featured sleep tracker with wearable integration (Android).
 - [SleepBot](https://mysleepbot.com/) - Smart alarm and sleep tracker (iOS & Android).
