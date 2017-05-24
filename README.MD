@@ -134,6 +134,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Timesheet](http://timesheet.rauscha.com/) - Android time tracker (Android).
 - [Hours Time Tracker](https://www.hourstimetracking.com/) - Awesome time tracking app (iOS).
 - [Rescue Time](https://www.rescuetime.com/) - Automatically tracks where you spend your time (Mac, Windows, Android, Linux).
+- [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: Real-time productivity feedback, project tracking, timesheets, and invoicing (Mac).
 - [Quality Time](http://www.qualitytimeapp.com/) - Precise time tracker for Android (Android).
 - [Manic Time](http://www.manictime.com/) - Automatic time tracking software which tracks computer usage (Windows).
 - [Streaks](https://streaksapp.com/) - To do list that helps you form habits and track goals (iOS).
