@@ -186,6 +186,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Connector DB](https://github.com/connectordb/connectordb) - A repository for all of your quantified-self data.
 - [Quantifier](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
 - [Fluxtream](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
+- [Flow Dashboard](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
 
 ## License
 
