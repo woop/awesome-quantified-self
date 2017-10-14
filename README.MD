@@ -95,6 +95,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [HabitBull](http://www.habitbull.com/) - A simple mobile habit tracking app to build and track streaks (iOS & Android).
 - [Strides](http://www.stridesapp.com/) - App to track your goals, habits and projects with SMART goal setting (Web, iOS).
 - [Habit List](http://habitlist.com/) - Create good habits, break bad ones, build a better you (iOS).
+- [Streaks](https://streaksapp.com/) - The to-do list that helps you form good habits (iOS).
 
 ### Health
 - [CureTogether](http://curetogether.com/) - Health self tracking and collaborative network.
