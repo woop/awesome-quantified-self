@@ -83,6 +83,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [MyFitnessPal](http://www.myfitnesspal.com/) - Food tracking and diet plan app (iOS & Android).
 - [Fat Secret](https://www.fatsecret.com/) - Calorie counter and diet tracker for weight loss (iOS & Android).
 - [Calorie Counter](https://www.caloriecount.com/) - Nutritional database and calorie counting app (iOS & Android).
+- [Zero](https://itunes.apple.com/us/app/zero-fasting-tracker/id1168348542?mt=8) - A simple fasting tracker used for intermittent, circadian rhythm, and custom fasting (iOS). 
 
 ### Goals
 - [GoalsOnTrack](http://www.goalsontrack.com/) - Web-based goal setting and tracking software (iOS & Android).
@@ -95,6 +96,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [HabitBull](http://www.habitbull.com/) - A simple mobile habit tracking app to build and track streaks (iOS & Android).
 - [Strides](http://www.stridesapp.com/) - App to track your goals, habits and projects with SMART goal setting (Web, iOS).
 - [Habit List](http://habitlist.com/) - Create good habits, break bad ones, build a better you (iOS).
+- [Streaks](https://streaksapp.com/) - The to-do list that helps you form good habits (iOS).
 
 ### Health
 - [CureTogether](http://curetogether.com/) - Health self tracking and collaborative network.
