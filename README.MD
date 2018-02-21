@@ -148,6 +148,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Manic Time](http://www.manictime.com/) - Automatic time tracking software which tracks computer usage (Windows).
 - [Streaks](https://streaksapp.com/) - To do list that helps you form habits and track goals (iOS).
 - [Moment](https://inthemoment.io/) - Track time spent on iPhone and iPad (iOS).
+- [Hindsight](http://hindsightapp.io/) - Tracks the passage of time since something happened (iOS, Apple Watch)
 
 ### Wealth
 - [Mint](http://www.mint.com/) - Manage your money, pay your bills and track your credit score.
