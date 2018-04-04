@@ -90,6 +90,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Lifetick](https://lifetick.com/) - Online goal tracking platform.
 - [stickK](http://www.stickk.com/) - Goal tracking with a monetary commitment.
 - [Beeminder](https://www.beeminder.com/) - Goal tracking with a monetary commitment. Integrates with many devices and apps.
+- [Taskade](https://www.taskade.com/) - Simple and sharable tasks, checklists, and notes. (Web, iOS & Android).
 
 ### Habits
 - [Habitica](https://habitica.com) - A habit tracking app which treats your goals like a role playing game (Web, iOS & Android).
