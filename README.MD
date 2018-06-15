@@ -106,6 +106,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ### Heart
 - [Cardiio](http://www.cardiio.com/) - Touchless heart rate monitor (iOS).
 - [Instant Heart Rate](http://www.azumio.com/s/instantheartrate/index.html) - Fast and accurate mobile heart rate monitor (iOS, Android, Windows).
+- [HRV4Training](https://www.hrv4training.com/) - Track Heart Rate Variability, Stress, and other contextual data points using your smartphone camera and receive personalized advice to optimize your health and training (iOS, Android).
 
 ### Media Consumption
 - [Goodreads](https://www.goodreads.com/) - Lets users track and rate books and network with other readers (Web, iOS, Android). 
