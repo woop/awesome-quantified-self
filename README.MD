@@ -65,7 +65,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Validic](https://validic.com/) - Cloud-based platform that connects patient-recorded data from digital health applications, devices, and wearables.
 - [FitnessSyncer](https://www.fitnesssyncer.com/) - Joins health and fitness data into a single centralized platform.
 - [IoTool](https://iotool.io/) - Smartphone IoT platform for automation and data collection.
-- [AddApp](https://addapp.io/) - Recommendations based on your data (iOS).
 - [Tictrac](https://tictrac.com/) - Dashboard for health and fitness data (web).
 
 ### Automation
