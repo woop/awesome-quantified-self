@@ -114,6 +114,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Trakt](https://trakt.tv/) - Automatically track TV & movies you're watching (Web, Media Players).
 - [Pocket](https://getpocket.com/)  - Lets you save articles to read later (Web, iOS, Android).
 - [PhotoStats](http://www.photostats.io/) - Photo tracking with visualizations, analytics and auto-tagging using machine learning (iOS, Android).
+- [WordCounter](https://wordcounterapp.com/) - Word count tracker for writers (Mac). 
 
 ### Mind & Cognition
 - [Cambridge Brain Sciences](http://www.cambridgebrainsciences.com/) - Scientifically proven tools for the assessment of cognitive function.
