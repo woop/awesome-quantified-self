@@ -132,6 +132,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [SleepBot](https://mysleepbot.com/) - Smart alarm and sleep tracker (iOS & Android).
 - [Sleep Cycle](https://www.sleepcycle.com/) - Intelligent alarm clock and sleep tracker (iOS & Android).
 - [Pillow](https://neybox.com/pillow/) - Track your sleep from your Apple Watch or iPhone (iOS). 
+- [AutoSleep](http://autosleep.tantsissa.com/) - Automatically tracks your sleep via your Apple Watch (iOS).
 
 ### Tally
 - [Nomie](http://nomie.io/) - Privately track events in your life (iOS & Android).
