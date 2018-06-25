@@ -66,6 +66,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [FitnessSyncer](https://www.fitnesssyncer.com/) - Joins health and fitness data into a single centralized platform.
 - [IoTool](https://iotool.io/) - Smartphone IoT platform for automation and data collection.
 - [Tictrac](https://tictrac.com/) - Dashboard for health and fitness data (web).
+- [QS Access](http://quantifiedself.com/qs-access-app/) - Export Apple Health data into CSV table format (iOS). 
 
 ### Automation
 - [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) - Automation and event triggering app (Android).
