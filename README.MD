@@ -202,6 +202,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Quantifier](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
 - [Fluxtream](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
 - [Flow Dashboard](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
+- [BetterSelf](https://betterself.io) - An open sourced app for tracking supplements and habits
 
 ## License
 
