@@ -100,6 +100,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Streaks](https://streaksapp.com/) - The to-do list that helps you form good habits (iOS).
 
 ### Health
+- [AlcDroid](http://alcdroid.flx-apps.com/) - Alcohol consumption tracking and BAC calculation app that offers various statistics regarding your drinking behavior (Android).
 - [CureTogether](http://curetogether.com/) - Health self tracking and collaborative network.
 - [Symple](http://www.sympleapp.com/) - Symptom journal and health tracker (iOS).
 
