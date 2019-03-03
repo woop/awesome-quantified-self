@@ -182,6 +182,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Apple Watch](http://www.apple.com/watch/) - Fitness and other health oriented tracking.
 - [Amiigo](https://amiigo.com/) - Activity and gym workout trackers.
 - [Spire](https://spire.io/) - Activity tracker that determines stress and focus levels by measuring breathing.
+- [Oura Ring](https://ouraring.com/) - Highly-accurate sleep (and activity) tracker worn on the finger that measures HR, HRV, temperature, and movement.
 
 ## Research and Analysis
 
