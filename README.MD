@@ -46,15 +46,19 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Applications and Platforms
 
-### Activity & Fitness
+### Fitness
 - [Runkeeper](http://runkeeper.com/) - Outdoor fitness activity tracker (iOS & Android).
 - [Endomondo](https://www.endomondo.com/) - Sport and health statistics tracker (iOS & Android).
 - [Runtastic](https://www.runtastic.com/) - Running, cycling, and fitness GPS tracker (iOS & Android).
-- [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en) - Multi-purpose tracker (Android).
-- [Moves](https://moves-app.com/) - Activity diary for your life (iOS & Android).
 - [EveryMove Fit](http://everymovefit.com/) - Social fitness and goal tracking platform (iOS & Android).
 - [Strava](https://www.strava.com/) - Athletic activity tracking and social network.
 - [Gym Hero](https://gymhero.me/) - Track workouts, strength training and other fitness exercise (iOS, Web)
+
+### Places & Travel
+- [RoadGoat](https://www.roadgoat.com/) - Travel tracking, automated integrations with many platforms listed here (Web).
+- [Swarm](https://www.swarmapp.com/) - Point of Interest auto-checkins (iOS & Android).
+- [Arc](https://itunes.apple.com/us/app/arc-app-location-activity/id1063151918) - Similar to what Moves was (iOS).
+- [Moves](https://moves-app.com/) - Activity diary for your life, now shut down (iOS & Android).  
 
 ### Aggregators & Dashboards
 - [Apple Health](http://www.apple.com/ios/health/) - Multi-purpose tracking platform for Apple devices. Tracks activities, sleep, nutrition, mindfulness, and other metrics.
@@ -67,6 +71,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [IoTool](https://iotool.io/) - Smartphone IoT platform for automation and data collection.
 - [Tictrac](https://tictrac.com/) - Dashboard for health and fitness data (web).
 - [QS Access](http://quantifiedself.com/qs-access-app/) - Export Apple Health data into CSV table format (iOS). 
+- [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en) - Multi-purpose tracker (Android).
 
 ### Automation
 - [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) - Automation and event triggering app (Android).
