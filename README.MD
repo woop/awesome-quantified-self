@@ -156,7 +156,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Moment](https://inthemoment.io/) - Track time spent on iPhone and iPad (iOS).
 - [Hindsight](http://hindsightapp.io/) - Tracks the passage of time since something happened (iOS, Apple Watch).
 - [ActivityWatch](https://activitywatch.net/) - Open source automated time tracker (Mac, Windows, Linux, Android).
-- [Hourly] (http://hourly-app.com) – Minimalistic time tracker with smart functions and nice design (iOS).
+- [Hourly](http://hourly-app.com) - Minimalistic time tracker with smart functions and nice design (iOS).
 
 ### Wealth
 - [Mint](http://www.mint.com/) - Manage your money, pay your bills and track your credit score.
