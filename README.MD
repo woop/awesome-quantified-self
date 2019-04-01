@@ -107,6 +107,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Taskade](https://taskade.com/) - Modern task lists that syncs across all your devices. (Web, iOS, Android, Chrome, Mac and PC).
 
 ### Health
+- [AlcDroid](http://alcdroid.flx-apps.com/) - Alcohol consumption tracking and BAC calculation app that offers various statistics regarding your drinking behavior (Android).
 - [CureTogether](http://curetogether.com/) - Health self tracking and collaborative network.
 - [Symple](http://www.sympleapp.com/) - Symptom journal and health tracker (iOS).
 
