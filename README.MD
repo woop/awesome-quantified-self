@@ -90,6 +90,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Calorie Counter](https://www.caloriecount.com/) - Nutritional database and calorie counting app (iOS & Android).
 - [Cronometer](https://cronometer.com/) - Food, activity, and biometric tracker (iOS & Android).
 - [Zero](https://itunes.apple.com/us/app/zero-fasting-tracker/id1168348542?mt=8) - A simple fasting tracker used for intermittent, circadian rhythm, and custom fasting (iOS). 
+- [Vora](https://play.google.com/store/apps/details?id=com.fastapp&hl=en_US) Fasting tracker (Android).
 - [Bitesnap](https://www.getbitesnap.com/) - Image based food logging app powered by computer vision (iOS & Android).
 
 ### Goals
