@@ -88,7 +88,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [MyFitnessPal](http://www.myfitnesspal.com/) - Food tracking and diet plan app (iOS & Android).
 - [Fat Secret](https://www.fatsecret.com/) - Calorie counter and diet tracker for weight loss (iOS & Android).
 - [Calorie Counter](https://www.caloriecount.com/) - Nutritional database and calorie counting app (iOS & Android).
-- [Zero](https://itunes.apple.com/us/app/zero-fasting-tracker/id1168348542?mt=8) - A simple fasting tracker used for intermittent, circadian rhythm, and custom fasting (iOS). 
+- [Cronometer](https://cronometer.com/) - Food, activity, and biometric tracker (iOS & Android).
+- [Zero](https://www.zerofasting.com/) - A simple fasting tracker used for intermittent, circadian rhythm, and custom fasting (iOS & Android). 
+- [Vora](https://getvora.com/) - Fasting tracker (iOS & Android).
 - [Bitesnap](https://www.getbitesnap.com/) - Image based food logging app powered by computer vision (iOS & Android).
 
 ### Goals
