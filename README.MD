@@ -208,6 +208,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Human API](http://humanapi.co/) - Health data integration platform.
 - [DNA land](http://dna.land/) - DNA imputation and scientific research.
 - [GenetiConcept](https://geneticoncept.com) - Genetic testing for health, drug interactions, fitness and nutrition.
+- [FoundMyFitness](https://www.foundmyfitness.com/genetics) - Comprehensive genetic report from on self-uploaded genetic data.
 
 ## Open Source Projects
 
