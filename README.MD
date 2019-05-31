@@ -175,6 +175,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
 - [Ledger](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 - [Credit Karma](https://www.creditkarma.com/) - Lean and reputable credit score tracker.
+- [Actual](https://actualbudget.com/) - Personal home budget software.
 
 ## Devices and Wearables
 
