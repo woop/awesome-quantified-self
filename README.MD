@@ -195,6 +195,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Amiigo](https://amiigo.com/) - Activity and gym workout trackers.
 - [Spire](https://spire.io/) - Activity tracker that determines stress and focus levels by measuring breathing.
 - [Oura Ring](https://ouraring.com/) - Highly-accurate sleep (and activity) tracker worn on the finger that measures HR, HRV, temperature, and movement.
+- [Aidlab](https://www.aidlab.com/) - Smart and hackable wearable, compatible with special T-shirts and chest straps.
 
 ## Research and Analysis
 
