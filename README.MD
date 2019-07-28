@@ -64,7 +64,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [RoadGoat](https://www.roadgoat.com/) - Travel tracking, automated integrations with many platforms listed here (Web).
 - [Swarm](https://www.swarmapp.com/) - Point of interest auto-checkins via GPS (iOS & Android).
 - [Arc](https://itunes.apple.com/us/app/arc-app-location-activity/id1063151918) - Track your movements and places visited via GPS (iOS).
-- [Moves](https://moves-app.com/) - Activity diary for your life, now shut down (iOS & Android).  
 
 ### Aggregators & Dashboards
 - [Memento Labs](https://mementolabs.io) - Personalized health and wellness action plans using wearables & A/B testing. 
