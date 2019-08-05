@@ -218,6 +218,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [DNA land](http://dna.land/) - DNA imputation and scientific research.
 - [GenetiConcept](https://geneticoncept.com) - Genetic testing for health, drug interactions, fitness and nutrition.
 - [FoundMyFitness](https://www.foundmyfitness.com/genetics) - Comprehensive genetic report from on self-uploaded genetic data.
+- [Dante Labs](https://dantelabs.com) - Genetic testing and analysis.
 
 ## Open Source Projects
 
