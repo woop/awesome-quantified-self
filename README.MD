@@ -218,7 +218,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [DNA land](http://dna.land/) - DNA imputation and scientific research.
 - [GenetiConcept](https://geneticoncept.com) - Genetic testing for health, drug interactions, fitness and nutrition.
 - [FoundMyFitness](https://www.foundmyfitness.com/genetics) - Comprehensive genetic report from on self-uploaded genetic data.
-- [Dante Labs](https://dantelabs.com) - Include the following DNA sequencing services: whole genome sequencing (WGS), whole exome sequencing (WES), and a non-invasive prenatal test (NIPT). Users who complete the tests can receive reports on their raw genomic data, pathogenic variants, and reports of their genes associated with health conditions.
+- [Dante Labs](https://dantelabs.com) - Includes the following DNA sequencing services: whole genome sequencing (WGS), whole exome sequencing (WES), and a non-invasive prenatal test (NIPT). Users who complete the tests can receive reports on their raw genomic data, pathogenic variants, and reports of their genes associated with health conditions.
 
 ## Open Source Projects
 
