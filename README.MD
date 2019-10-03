@@ -184,6 +184,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Ledger](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 - [Credit Karma](https://www.creditkarma.com/) - Lean and reputable credit score tracker.
 - [Actual](https://actualbudget.com/) - Personal home budget software.
+- [my Social Security](https://www.ssa.gov/signin) - Check your lifetime earnings
 
 ## Devices and Wearables
 
