@@ -23,6 +23,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Quantified Self](http://quantifiedself.com/) - Official website.
 - [Flowing Data](http://flowingdata.com/category/self-surveillance/) - Self surveillance and quantification news.
 - [Wearables Database](http://vandrico.com/wearables/) - Awesome list of wearables available per body part.
+- [Wearables Table](https://quantifyme.io/) - Nice crowd-sourced table of wearables.
 - [Wolfram Connected Devices Project](http://devices.wolfram.com/) - IoT and Quantified Self device list.
 - [Quantified Self Instutite](http://www.qsinstitute.org/) - Quantified Self research and innovation projects.
 
