@@ -8,7 +8,7 @@ This is the place that a service/hardware etc. is shutdown, stopped or been acqu
 
 
 
-##applications-and-platforms
+## Applications and Platforms
 
 ### Fitness
 - [EveryMove Fit](http://everymovefit.com/) - 2017-03-15 acquired by Higi, service stop.
