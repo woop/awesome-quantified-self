@@ -225,7 +225,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 ## Open Source Projects
 
 - [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
-- [Connector DB](https://github.com/connectordb/connectordb) - A repository for all of your quantified-self data.
+- [Heedy](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
 - [Quantifier](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
 - [Fluxtream](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
 - [Flow Dashboard](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
