@@ -190,7 +190,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 ## Devices and Wearables
 
 - [Fitbit](http://www.fitbit.com/) - Awesome activity tracking wearables to track steps, heart rate, quality of sleep, and other personal metrics.
-- [Gadgetbridge](https://gadgetbridge.org/) [Codberg Repo](https://codeberg.org/Freeyourgadget/Gadgetbridge/) - Sync and manage data using fitness trackers and watches without using proprietary/closed apps. Export/backup the SQL database or run SQL commands via Android Debug Bridge (adb).
+- [Gadgetbridge](https://gadgetbridge.org/) [Codberg Repo](https://codeberg.org/Freeyourgadget/Gadgetbridge/) - Sync and manage data using fitness trackers and watches without using proprietary/closed apps. Can export its SQLite DB.
 - [Garmin](https://buy.garmin.com/en-US/US/wearables/c10002-p1.html) - World-class range of wearables.
 - [TomTom](https://www.tomtom.com/en_us/sports/fitness-trackers/) - Fitness trackers and watches.
 - [Jawbone UP](https://jawbone.com/up) - Fitness trackers for a healthier you.
