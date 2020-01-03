@@ -128,7 +128,8 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [HRV4Training](https://www.hrv4training.com/) - Track Heart Rate Variability, Stress, and other contextual data points using your smartphone camera and receive personalized advice to optimize your health and training (iOS, Android).
 
 ### Media Consumption
-- [Goodreads](https://www.goodreads.com/) - Lets users track and rate books and network with other readers (Web, iOS, Android). 
+- [Goodreads](https://www.goodreads.com/) - Lets users track and rate books and network with other readers (Web, iOS, Android).
+- [HistoryHound](https://www.stclairsoft.com/HistoryHound/) - Searchable cross-browser history database that can be exported as HTML (MacOS).
 - [Last.fm](http://www.last.fm/) - Track the music you listen to by scrobbling via desktop and mobile apps or by connecting to music services (Web, iOS, Android).
 - [Trakt](https://trakt.tv/) - Automatically track TV & movies you're watching (Web, Media Players).
 - [Pocket](https://getpocket.com/)  - Lets you save articles to read later (Web, iOS, Android).
