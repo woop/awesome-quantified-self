@@ -115,7 +115,8 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Habit List](http://habitlist.com/) - Create good habits, break bad ones, build a better you (iOS).
 - [Streaks](https://streaksapp.com/) - The to-do list that helps you form good habits (iOS).
 - [Taskade](https://taskade.com/) - Modern task lists that syncs across all your devices. (Web, iOS, Android, Chrome, Mac and PC).
-- [Productive](https://productiveapp.io/) - Habits and daily goals tracker with flexible scheduling, reminders and data export (iOS). 
+- [Productive](https://productiveapp.io/) - Habits and daily goals tracker with flexible scheduling, reminders and data export (iOS).
+- [Everyday](https://everyday.app/) - Simple and beautiful habit tracker for the Web, iOS and Android. Has a web extension to add it to your browser's new tab.
 
 ### Health
 - [AlcDroid](http://alcdroid.flx-apps.com/) - Alcohol consumption tracking and BAC calculation app that offers various statistics regarding your drinking behavior (Android).
