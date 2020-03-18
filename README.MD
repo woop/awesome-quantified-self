@@ -92,6 +92,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [AskMeEvery](https://www.askmeevery.com/) - Automated data entry through email or text questions.
 - [Reporter](http://www.reporter-app.com/) - Tracking app that collects data through random surveys (iOS).
 - [Logsit](http://www.logsit.com/) - Quantified self and lifelogging app to track the things you've done (iOS).
+- [LifeMetrics](https://lifemetrics.io/) - Daily questionaires and automatically generated wellness insights (iOS).
 
 ### Diet
 - [MyFitnessPal](http://www.myfitnesspal.com/) - Food tracking and diet plan app (iOS & Android).
