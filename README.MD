@@ -53,6 +53,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 
 - [Ted Talk: The Quantified Self](https://www.ted.com/talks/gary_wolf_the_quantified_self?language=en) - Ted talk by Gary Wolf on the Quantified Self movement.
 - [Tedx Talk: Wearable Tech Expands Human Potential](https://www.youtube.com/watch?v=FESv2CgyJag) - Lauren Costantini explores what it means to be human in the age of the Quantified Self.
+- [Don't Unplug!!! How Technology Saved My Life and Can Save Yours Too](https://www.youtube.com/watch?v=EaYsr_ir1R8) - A keynote by Chris Dancy ("the Most Connected Man on Earth") in which he expores how technology helped him become a better person by paying attention to the data he collected about his life.
 
 ## Applications and Platforms
 
