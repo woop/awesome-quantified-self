@@ -24,6 +24,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 
 - [Quantified Self](http://quantifiedself.com/) - Official website.
 - [Flowing Data](http://flowingdata.com/category/self-surveillance/) - Self surveillance and quantification news.
+- [Biohack Stack](https://biohackstack.com/) - Biohacker community with "stacks" of famous scientists.
 - [Wearables Database](http://vandrico.com/wearables/) - Awesome list of wearables available per body part.
 - [Wearables Table](https://quantifyme.io/) - Nice crowd-sourced table of wearables.
 - [Wolfram Connected Devices Project](http://devices.wolfram.com/) - IoT and Quantified Self device list.
@@ -52,6 +53,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 
 - [Ted Talk: The Quantified Self](https://www.ted.com/talks/gary_wolf_the_quantified_self?language=en) - Ted talk by Gary Wolf on the Quantified Self movement.
 - [Tedx Talk: Wearable Tech Expands Human Potential](https://www.youtube.com/watch?v=FESv2CgyJag) - Lauren Costantini explores what it means to be human in the age of the Quantified Self.
+- [Don't Unplug!!! How Technology Saved My Life and Can Save Yours Too](https://www.youtube.com/watch?v=EaYsr_ir1R8) - A keynote by Chris Dancy ("the Most Connected Man on Earth") in which he explores how technology helped him become a better person by paying attention to the data he collected about his life.
 
 ## Applications and Platforms
 
@@ -90,7 +92,8 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 ### Data Collection
 - [AskMeEvery](https://www.askmeevery.com/) - Automated data entry through email or text questions.
 - [Reporter](http://www.reporter-app.com/) - Tracking app that collects data through random surveys (iOS).
-- [Logisit](http://www.logsit.com/) - Quantified self and lifelogging app to track the things you've done (iOS).
+- [Logsit](http://www.logsit.com/) - Quantified self and lifelogging app to track the things you've done (iOS).
+- [LifeMetrics](https://lifemetrics.io/) - Daily questionaires and automatically generated wellness insights (iOS).
 
 ### Diet
 - [MyFitnessPal](http://www.myfitnesspal.com/) - Food tracking and diet plan app (iOS & Android).
@@ -115,7 +118,8 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Habit List](http://habitlist.com/) - Create good habits, break bad ones, build a better you (iOS).
 - [Streaks](https://streaksapp.com/) - The to-do list that helps you form good habits (iOS).
 - [Taskade](https://taskade.com/) - Modern task lists that syncs across all your devices. (Web, iOS, Android, Chrome, Mac and PC).
-- [Productive](https://productiveapp.io/) - Habits and daily goals tracker with flexible scheduling, reminders and data export (iOS). 
+- [Productive](https://productiveapp.io/) - Habits and daily goals tracker with flexible scheduling, reminders and data export (iOS).
+- [Everyday](https://everyday.app/) - Simple and beautiful habit tracker for the Web, iOS and Android. Has a web extension to add it to your browser's new tab.
 
 ### Health
 - [AlcDroid](http://alcdroid.flx-apps.com/) - Alcohol consumption tracking and BAC calculation app that offers various statistics regarding your drinking behavior (Android).
@@ -225,12 +229,14 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 ## Open Source Projects
 
 - [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
-- [Connector DB](https://github.com/connectordb/connectordb) - A repository for all of your quantified-self data.
+- [Heedy](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
 - [Quantifier](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
 - [Fluxtream](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
 - [Flow Dashboard](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
 - [BetterSelf](https://betterself.io) - An open sourced app for tracking supplements and habits
 - [QS Ledger](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
+- [Awesome Biomarkers](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
+
 
 ## License
 
