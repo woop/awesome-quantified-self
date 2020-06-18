@@ -103,6 +103,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Zero](https://www.zerofasting.com/) - A simple fasting tracker used for intermittent, circadian rhythm, and custom fasting (iOS & Android). 
 - [Vora](https://getvora.com/) - Fasting tracker (iOS & Android).
 - [Bitesnap](https://www.getbitesnap.com/) - Image based food logging app powered by computer vision (iOS & Android).
+- [Coffee It](https://apps.apple.com/us/app/coffee-it-record-caffeine/id1216049514) - Record Caffeine intake, with database inside & Apple Health sync. (iOS)
 
 ### Goals
 - [GoalsOnTrack](http://www.goalsontrack.com/) - Web-based goal setting and tracking software (iOS & Android).
