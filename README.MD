@@ -129,7 +129,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 
 ### Media Consumption
 - [Goodreads](https://www.goodreads.com/) - Lets users track and rate books and network with other readers (Web, iOS, Android). 
--[HistoryHound](https://www.stclairsoft.com/HistoryHound/) - Searchable cross-browser history database that can be exported as HTML (MacOS).
+- [HistoryHound](https://www.stclairsoft.com/HistoryHound/) - Searchable cross-browser history database that can be exported as HTML (MacOS).
 - [Last.fm](http://www.last.fm/) - Track the music you listen to by scrobbling via desktop and mobile apps or by connecting to music services (Web, iOS, Android).
 - [Trakt](https://trakt.tv/) - Automatically track TV & movies you're watching (Web, Media Players).
 - [Pocket](https://getpocket.com/)  - Lets you save articles to read later (Web, iOS, Android).
