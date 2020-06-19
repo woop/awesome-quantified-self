@@ -42,6 +42,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [QS on Wired](https://www.wired.com/tag/quantified-self/) - Quantified Self articles on Wired.com.
 - [QS on LiveScience](http://www.livescience.com/topics/quantified-self) - Quantified Self articles on LiveScience.
 - [Gwern](http://www.gwern.net/) - Esoteric blog which includes blinded self-experiments & Quantified Self analyses amongst other topics.
+- [beepb00p](https://beepb00p.xyz) - Writing about Quantified Self, owning the data and building the infrastrucure
 
 ## Books
 
