@@ -80,7 +80,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [FitnessSyncer](https://www.fitnesssyncer.com/) - Joins health and fitness data into a single centralized platform.
 - [IoTool](https://iotool.io/) - Smartphone IoT platform for automation and data collection.
 - [Tictrac](https://tictrac.com/) - Dashboard for health and fitness data (web).
-- [QS Access](http://quantifiedself.com/qs-access-app/) - Export Apple Health data into CSV table format (iOS). 
+- [QS Access](https://apps.apple.com/us/app/qs-access/id920297614) - Export Apple Health data into CSV table format (iOS).
 - [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en) - Multi-purpose tracker (Android).
 
 ### Automation
@@ -103,6 +103,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Zero](https://www.zerofasting.com/) - A simple fasting tracker used for intermittent, circadian rhythm, and custom fasting (iOS & Android). 
 - [Vora](https://getvora.com/) - Fasting tracker (iOS & Android).
 - [Bitesnap](https://www.getbitesnap.com/) - Image based food logging app powered by computer vision (iOS & Android).
+- [Coffee It](https://apps.apple.com/us/app/coffee-it-record-caffeine/id1216049514) - Record Caffeine intake, with database inside & Apple Health sync. (iOS)
 
 ### Goals
 - [GoalsOnTrack](http://www.goalsontrack.com/) - Web-based goal setting and tracking software (iOS & Android).
