@@ -135,6 +135,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 
 ### Media Consumption
 - [Goodreads](https://www.goodreads.com/) - Lets users track and rate books and network with other readers (Web, iOS, Android). 
+- [HistoryHound](https://www.stclairsoft.com/HistoryHound/) - Searchable cross-browser history database that can be exported as HTML (MacOS).
 - [Last.fm](http://www.last.fm/) - Track the music you listen to by scrobbling via desktop and mobile apps or by connecting to music services (Web, iOS, Android).
 - [Trakt](https://trakt.tv/) - Automatically track TV & movies you're watching (Web, Media Players).
 - [Pocket](https://getpocket.com/)  - Lets you save articles to read later (Web, iOS, Android).
@@ -212,6 +213,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Spire](https://spire.io/) - Activity tracker that determines stress and focus levels by measuring breathing.
 - [Oura Ring](https://ouraring.com/) - Highly-accurate sleep (and activity) tracker worn on the finger that measures HR, HRV, temperature, and movement.
 - [Aidlab](https://www.aidlab.com/) - Smart and hackable wearable, compatible with special T-shirts and chest straps.
+- [Gadgetbridge](https://gadgetbridge.org/) - FOSS fitness tracker app for use with a wide variety of wearables.
 
 ## Research and Analysis
 
