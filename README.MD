@@ -214,6 +214,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Oura Ring](https://ouraring.com/) - Highly-accurate sleep (and activity) tracker worn on the finger that measures HR, HRV, temperature, and movement.
 - [Aidlab](https://www.aidlab.com/) - Smart and hackable wearable, compatible with special T-shirts and chest straps.
 - [Gadgetbridge](https://gadgetbridge.org/) - FOSS fitness tracker app for use with a wide variety of wearables.
+- [Dreem](https://dreem.com/) - Consumer-grade EEG used to monitor and optimize sleep; it also has pulse oxymeter, bone conduction audio, accelerometer and sonometer.
 
 ## Research and Analysis
 
