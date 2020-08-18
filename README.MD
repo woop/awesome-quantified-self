@@ -26,6 +26,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Flowing Data](http://flowingdata.com/category/self-surveillance/) - Self surveillance and quantification news.
 - [Biohack Stack](https://biohackstack.com/) - Biohacker community with "stacks" of famous scientists.
 - [Wearables Database](http://vandrico.com/wearables/) - Awesome list of wearables available per body part.
+- [Database of Health Research related APIs](http://www.health2api.com/?category_name=api&category__and%5B%5D=7854&category__and%5B%5D=0&category__and%5B%5D=0&posts_per_page=50&submit=filter) - More for researchers.
 - [Wearables Table](https://quantifyme.io/) - Nice crowd-sourced table of wearables.
 - [Wolfram Connected Devices Project](http://devices.wolfram.com/) - IoT and Quantified Self device list.
 - [Quantified Self Instutite](http://www.qsinstitute.org/) - Quantified Self research and innovation projects.
