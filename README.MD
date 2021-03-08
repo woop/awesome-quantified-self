@@ -49,6 +49,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 -  [Your life, uploaded: The digital way to better memory, health, and productivity](https://www.amazon.com/Your-Life-Uploaded-Digital-Productivity-ebook/dp/B0043EV52G/) (2010) - Gordon Bell & Jim Gemmell
 - [The Quantified Self](https://www.amazon.com/Quantified-Self-Deborah-Lupton-ebook/dp/B01M0QCSF7/) (2016) - Deborah Lupton
 - [Self-Tracking](https://www.amazon.com/Self-Tracking-MIT-Press-Essential-Knowledge-ebook/dp/B01HNIVBZ4/) (2016) - Gina Neff & Dawn Nafus
+- [Everyday Data Science](https://www.amazon.com/dp/B08TZ1MT3W/ref=cm_sw_r_cp_apa_fabc_a0ceGbWECF9A8) (2021) - Andrew N Carr [(cheaper PDF version)](http://gum.co/everydaydata)
 
 ## Talks
 
