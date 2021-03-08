@@ -87,7 +87,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 
 ### Automation
 - [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) - Automation and event triggering app (Android).
-- [Workflow](http://workflow.is/) - Powerful automation app (iOS).
+- [Apple Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) - Powerful automation app (iOS).
 - [If This Then That (IFTTT)](https://ifttt.com/) - Awesome conditional automation platform.
 - [Zapier](https://zapier.com/) - Automate tasks between apps.
 
