@@ -227,7 +227,6 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Enlis](https://www.enlis.com/personal_edition.html) - Software to organize and analyze your genomic data.
 - [DNA Fit](https://www.dnafit.com/) - Genetic information for fitness and nutrition.
 - [Family Tree DNA](https://www.familytreedna.com/) - Genetic testing for ancestry, family history and genealogy.
-- [uBiome](http://ubiome.com/) - Microbiome sequencing startup.
 - [Inside Tracker](https://www.insidetracker.com/) - Science-based blood analytics for performance and health.
 - [Wellness FX](https://www.wellnessfx.com/) - Blood analysis and health checkup.
 - [Human API](http://humanapi.co/) - Health data integration platform.
