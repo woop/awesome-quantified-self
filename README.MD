@@ -244,6 +244,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [BetterSelf](https://betterself.io) - An open sourced app for tracking supplements and habits
 - [QS Ledger](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
 - [Awesome Biomarkers](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
+- [health-records](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
 
 
 ## License
