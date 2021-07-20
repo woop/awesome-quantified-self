@@ -29,8 +29,8 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Wearables Table](https://quantifyme.io/) - Nice crowd-sourced table of wearables.
 - [Wolfram Connected Devices Project](http://devices.wolfram.com/) - IoT and Quantified Self device list.
 - [Quantified Self Instutite](http://www.qsinstitute.org/) - Quantified Self research and innovation projects.
-- [Biomindmap](https://biomindmap.com/) - Database of interventions from research studies with a network viz option. 
-
+- [Biomindmap](https://biomindmap.com/) - Database of interventions from research studies with a network viz option.
+- [Kialo Debate](https://www.kialo.com/everyone-should-health-track---self-quantify-49787/) - Collaborative outline of issues and benefits. 
 ## Articles & Blogs
 
 - [The Personal Analytics of My Life by Stephen Wolfram](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/) - Stephen Wolfram explores the data he has collected on the use of his time.
