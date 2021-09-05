@@ -79,6 +79,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Gyroscope](https://gyrosco.pe/) - Quantified Self health dashboard (web, iOS, & Android).
 - [Exist](https://exist.io/) - Track everything in one place (web, iOS & Android).
 - [Zenobase](https://zenobase.com/) - Store, aggregate and visualize your data from multiple 3rd party sources (web).
+- [Vital](https://tryvital.io/) - Plaid like widget that joins together all your fitness data, wearables data and at home lab tests.
 - [Validic](https://validic.com/) - Cloud-based platform that connects patient-recorded data from digital health applications, devices, and wearables.
 - [FitnessSyncer](https://www.fitnesssyncer.com/) - Joins health and fitness data into a single centralized platform.
 - [IoTool](https://iotool.io/) - Smartphone IoT platform for automation and data collection.
