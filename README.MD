@@ -197,6 +197,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Ledger](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 - [Credit Karma](https://www.creditkarma.com/) - Lean and reputable credit score tracker.
 - [Actual](https://actualbudget.com/) - Personal home budget software.
+- [Lunch Money](https://lunchmoney.app/) - Web app to import transactions, categorize, and budget.
 
 ## Devices and Wearables
 
