@@ -66,6 +66,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Runtastic](https://www.runtastic.com/) - Running, cycling, and fitness GPS tracker (iOS & Android).
 - [Strava](https://www.strava.com/) - Athletic activity tracking and social network.
 - [Gym Hero](https://gymhero.me/) - Track workouts, strength training and other fitness exercise (iOS, Web)
+- [OpenTracks](https://opentracksapp.com/) - Privacy-respecting offline-capable fitness activity tracker (Android).
 
 ### Places & Travel
 - [RoadGoat](https://www.roadgoat.com/) - Travel tracking, automated integrations with many platforms listed here (Web).
