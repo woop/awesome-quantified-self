@@ -200,6 +200,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Credit Karma](https://www.creditkarma.com/) - Lean and reputable credit score tracker.
 - [Actual](https://actualbudget.com/) - Personal home budget software.
 - [Lunch Money](https://lunchmoney.app/) - Web app to import transactions, categorize, and budget.
+- [Firefly III](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
 
 ## Devices and Wearables
 
