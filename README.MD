@@ -256,6 +256,8 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [health-records](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
 - [Timeliner](https://github.com/mholt/timeliner) - A data aggregation and and timeline visualization tool.
 - [TimelineBuilder](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
+- [HumanProgrammingInrerface](https://github.com/karlicoss/HPI) - Unify, acces and interact with all of your personal data.
+- [Dogsheep](https://dogsheep.github.io/) - A collection of data exporters and tools for personal analytics using SQLite and/or Datasette.
 
 
 ## License
