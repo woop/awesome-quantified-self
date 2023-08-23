@@ -45,6 +45,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Gwern](http://www.gwern.net/) - Esoteric blog which includes blinded self-experiments & Quantified Self analyses amongst other topics.
 - [beepb00p](https://beepb00p.xyz) - Writing about Quantified Self, owning the data and building the infrastructure.
 - [QS Experiments](https://blog.kto.to) - Science-based approach for Quantified Self, sharing raw data and analysis, modelling physical processes, health trackers comparison and analysis.
+- [Building a Memex] - A software developer, Andrew Louis, writing about managing your digital history.
 
 ## Books
 
@@ -256,6 +257,9 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [health-records](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
 - [Timeliner](https://github.com/mholt/timeliner) - A data aggregation and and timeline visualization tool.
 - [TimelineBuilder](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
+- [Chronicle](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
+- [QS-Schema](https://github.com/QS-Schema/qs-schema) - Open schemes for QS applications.
+- [Datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
 
 
 ## License
