@@ -256,7 +256,10 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [health-records](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
 - [Timeliner](https://github.com/mholt/timeliner) - A data aggregation and and timeline visualization tool.
 - [TimelineBuilder](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
-
+- [Me API](https://github.com/danfang/me-api) - An extensible, personal API with custom integrations.
+- [Bolero](https://github.com/bcongdon/bolero) - An extensible, personal API with custom integrations.
+- [Memacs](https://github.com/novoid/Memacs) - Visualize your life in Orgmode.
+- [Syte3](https://github.com/rigoneri/Syte3) - A personal website that shows your activity on social networks and more.
 
 ## License
 
