@@ -101,6 +101,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Reporter](http://www.reporter-app.com/) - Tracking app that collects data through random surveys (iOS).
 - [Logsit](http://www.logsit.com/) - Quantified self and lifelogging app to track the things you've done (iOS).
 - [LifeMetrics](https://lifemetrics.io/) - Daily questionnaires and automatically generated wellness insights (iOS).
+- [Sink](https://sinkapp.io) - Voice-enabled Lifelogger for tracking anything with automatic sync to Google Sheets (iOS).
 
 ### Diet
 - [MyFitnessPal](http://www.myfitnesspal.com/) - Food tracking and diet plan app (iOS & Android).
