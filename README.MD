@@ -112,6 +112,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Bitesnap](https://www.getbitesnap.com/) - Image based food logging app powered by computer vision (iOS & Android).
 - [Coffee It](https://apps.apple.com/us/app/coffee-it-record-caffeine/id1216049514) - Record Caffeine intake, with database inside & Apple Health sync. (iOS)
 - [HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706) - Super efficient caffeine tracker app with Apple Watch support (iOS and Apple Watch).
+- [Nutriely](https://nutriely.com) - Food and nutrition tracking, diary. Focusing on detailed micro and vitamin breakdown. (Web)
 
 ### Goals
 - [GoalsOnTrack](http://www.goalsontrack.com/) - Web-based goal setting and tracking software (iOS & Android).
