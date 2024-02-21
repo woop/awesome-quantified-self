@@ -207,6 +207,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Actual](https://actualbudget.com/) - Personal home budget software.
 - [Lunch Money](https://lunchmoney.app/) - Web app to import transactions, categorize, and budget.
 - [Firefly III](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
+- [Menot](https://www.menot.xyz) - Simple expense and finance tracker for multiple currencies, including crypto.
 
 ## Devices and Wearables
 
