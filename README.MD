@@ -102,6 +102,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Logsit](http://www.logsit.com/) - Quantified self and lifelogging app to track the things you've done (iOS).
 - [LifeMetrics](https://lifemetrics.io/) - Daily questionnaires and automatically generated wellness insights (iOS).
 - [Reflect](https://ntl.ai/reflect) - Tracking app with customizable forms and data insights (iOS).
+- [RTracker](https://janerob.com/rTracker/rTracker/iPhone/pages/rTracker-main.html) - Generic, customisable personal data tracker (iOS). 
 
 ### Diet
 - [MyFitnessPal](http://www.myfitnesspal.com/) - Food tracking and diet plan app (iOS & Android).
