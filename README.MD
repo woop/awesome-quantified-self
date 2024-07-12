@@ -196,6 +196,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [ActivityWatch](https://activitywatch.net/) - Open source automated time tracker (Mac, Windows, Linux, Android).
 - [Hourly](http://hourly-app.com) - Minimalistic time tracker with smart functions and nice design (iOS).
 - [Code Time](https://www.software.com/) - Time-tracking for VS Code, Atom, Sublime Text, and other editors
+- [arbtt](https://arbtt.nomeata.de/) - Automatic, rule-based time tracker, which works by periodically snapshotting the metadata of your desktop window state. Rules are specified in the arbtt DSL and can be written retroactively (Linux, Mac, Windows).
 
 ### Wealth
 - [Mint](http://www.mint.com/) - Manage your money, pay your bills and track your credit score.
