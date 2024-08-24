@@ -10,8 +10,6 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) is a moveme
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
-It's always been sad to see a service shutdown, or hardware stop renew, here is the list we gather that have this tough decision [Archived](ARCHIVED.md)
-
 ## Contents
 
 - [Websites and Resources](#websites-and-resources)
