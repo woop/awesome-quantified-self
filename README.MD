@@ -221,4 +221,4 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Willem Pienaar](https://github.com/willempienaar) and [Yeltsin Lima](https://github.com/yeltsx) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Willem Pienaar](https://github.com/willempienaar) has waived all copyright and related or neighboring rights to this work.
