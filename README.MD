@@ -39,6 +39,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [beepb00p](https://beepb00p.xyz) - Writing about Quantified Self, owning the data and building the infrastructure.
 - [QS Experiments](https://blog.kto.to) - Science-based approach for Quantified Self, sharing raw data and analysis, modelling physical processes, health trackers comparison and analysis.
 
+
 ## Books
 
 -  [Your life, uploaded: The digital way to better memory, health, and productivity](https://www.amazon.com/Your-Life-Uploaded-Digital-Productivity-ebook/dp/B0043EV52G/) (2010) - Gordon Bell & Jim Gemmell
@@ -91,6 +92,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [AskMeEvery](https://www.askmeevery.com/) - Automated data entry through email or text questions.
 - [Reporter](http://www.reporter-app.com/) - Tracking app that collects data through random surveys (iOS).
 - [Reflect](https://ntl.ai/reflect) - Tracking app with customizable forms and data insights (iOS).
+- [RTracker](https://janerob.com/rTracker/rTracker/iPhone/pages/rTracker-main.html) - Generic, customisable personal data tracker (iOS).
+- [Sink](https://sinkapp.io) - Voice-enabled Lifelogger for tracking anything with automatic sync to Google Sheets (iOS).
 
 ### Diet
 - [MyFitnessPal](http://www.myfitnesspal.com/) - Food tracking and diet plan app (iOS & Android).
@@ -178,6 +181,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Actual](https://actualbudget.com/) - Personal home budget software.
 - [Lunch Money](https://lunchmoney.app/) - Web app to import transactions, categorize, and budget.
 - [Firefly III](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
+- [Menot](https://www.menot.xyz) - Simple expense and finance tracker for multiple currencies, including crypto.
 
 ## Devices and Wearables
 
@@ -215,6 +219,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [TimelineBuilder](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
 - [Me API](https://github.com/danfang/me-api) - An extensible, personal API with custom integrations.
 - [Memacs](https://github.com/novoid/Memacs) - Visualize your life in Orgmode.
+- [HumanProgrammingInrerface](https://github.com/karlicoss/HPI) - Unify, acces and interact with all of your personal data.
+- [Dogsheep](https://dogsheep.github.io/) - A collection of data exporters and tools for personal analytics using SQLite and/or Datasette.
+- [Chronicle](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
+- [QS-Schema](https://github.com/QS-Schema/qs-schema) - Open schemes for QS applications.
+- [Datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
 
 ## License
 
