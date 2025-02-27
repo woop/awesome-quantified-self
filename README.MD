@@ -219,7 +219,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [TimelineBuilder](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
 - [Me API](https://github.com/danfang/me-api) - An extensible, personal API with custom integrations.
 - [Memacs](https://github.com/novoid/Memacs) - Visualize your life in Orgmode.
-- [HumanProgrammingInrerface](https://github.com/karlicoss/HPI) - Unify, acces and interact with all of your personal data.
+- [HumanProgrammingInterface](https://github.com/karlicoss/HPI) - Unify, acces and interact with all of your personal data.
 - [Dogsheep](https://dogsheep.github.io/) - A collection of data exporters and tools for personal analytics using SQLite and/or Datasette.
 - [Chronicle](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
 - [QS-Schema](https://github.com/QS-Schema/qs-schema) - Open schemes for QS applications.
