@@ -226,6 +226,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Chronicle](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
 - [QS-Schema](https://github.com/QS-Schema/qs-schema) - Open schemes for QS applications.
 - [Datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
+- [Athlytics](https://github.com/HzaCode/Athlytics) - Academic R toolkit for endurance analytics with offline processing of Strava data exports for training load and physiological metrics.
 
 ## License
 
