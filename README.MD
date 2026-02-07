@@ -124,6 +124,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Emoji Log](https://emojilog.rosano.ca) - Track habits without streaks using emoji.
 - [Conjure](https://conjure.so) - Habits, goals and time tracker with rules engine, data layer, API, dashboards and more. (Web, Desktop, iOS, Android).
 - [MissionMate](https://www.missionmate.team/) - Virtual Habit Coach for in your groupchat (telegram). Log activities with photos or text, earn points, and compete with friends to build consistent habits together.
+- [Rewire](https://rewire-psi.vercel.app) - Free private habit streak tracker with recovery phases, milestone celebrations, and shareable progress cards (Web PWA).
+- [FastTrack](https://fasttrack-app-three.vercel.app) - Free intermittent fasting streak tracker with metabolic phases, milestones, and weekly recaps (Web PWA).
+- [IcePlunge](https://iceplunge-app.vercel.app) - Free cold plunge and cold exposure streak tracker with adaptation phases and milestone alerts (Web PWA).
 
 ### Health
 - [AlcDroid](http://alcdroid.flx-apps.com/) - Alcohol consumption tracking and BAC calculation app that offers various statistics regarding your drinking behavior (Android).
