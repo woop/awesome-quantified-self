@@ -223,6 +223,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Memacs](https://github.com/novoid/Memacs) - Visualize your life in Orgmode.
 - [HumanProgrammingInterface](https://github.com/karlicoss/HPI) - Unify, acces and interact with all of your personal data.
 - [Dogsheep](https://dogsheep.github.io/) - A collection of data exporters and tools for personal analytics using SQLite and/or Datasette.
+- [ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) - Self-hosted BLE smart scale reader that calculates body composition (fat %, muscle mass, BMR, etc.) and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. Runs on Raspberry Pi.
 - [Chronicle](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
 - [QS-Schema](https://github.com/QS-Schema/qs-schema) - Open schemes for QS applications.
 - [Datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
