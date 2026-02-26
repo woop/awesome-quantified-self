@@ -23,6 +23,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Quantified Self](http://quantifiedself.com/) - Official website.
 - [Flowing Data](http://flowingdata.com/category/self-surveillance/) - Self surveillance and quantification news.
 - [Wolfram Connected Devices Project](http://devices.wolfram.com/) - IoT and Quantified Self device list.
+- [PGIS](https://github.com/chukwumaonyeije/pgis-manus-skill#readme ) - Decision-support framework for optimizing endurance training while managing Type 2 diabetes.
+
 
 ## Articles & Blogs
 
