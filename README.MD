@@ -150,6 +150,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [iMoodJournal](https://www.imoodjournal.com/) - Mood Tracking on a 10-point scale from Really great to Couldn't be worse. Exportable data. (Android, iOS, Apple Watch).
 - [Perspective](https://itunes.apple.com/us/app/perspective-daily-journal/id1186753097?mt=8) - Journaling to captures Thoughts, Moods, and Interests with the goal of helping you reflect and find perspective. (iOS).
 - [Moods by Mokriya](https://itunes.apple.com/us/app/moods-tracking-for-better-mental-health/id1023271188?mt=8) - Quick track your mood as good, okay or bad. Specify feelings using a word cloud. No data export option. (iOS, Apple Watch).
+- [DailyVox](https://getdailyvox.com) - Free AI voice diary with automatic mood tracking via on-device sentiment analysis. Tracks emotional patterns, people, places, and topics in your life. 100% offline, privacy-first. ([Source](https://github.com/intrepidkarthi/dailyvox), [App Store](https://apps.apple.com/us/app/dailyvox-ai-voice-diary/id6760454642)) (iOS, iPadOS).
 
 ### Sleep
 - [Sleep as Android](http://sleep.urbandroid.org/) - Full featured sleep tracker with wearable integration (Android).
