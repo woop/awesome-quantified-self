@@ -61,6 +61,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Strava](https://www.strava.com/) - Athletic activity tracking and social network.
 - [Gym Hero](https://gymhero.me/) - Track workouts, strength training and other fitness exercise (iOS, Web)
 - [OpenTracks](https://opentracksapp.com/) - Privacy-respecting offline-capable fitness activity tracker (Android).
+- [Pilgrim](https://github.com/walktalkmeditate/pilgrim-ios) - Privacy-first walking tracker with GPS route, altitude, steps, on-device voice journaling via WhisperKit, and meditation timing. All data stays on-device, no accounts or analytics. Open source (iOS).
 
 ### Places & Travel
 - [RoadGoat](https://www.roadgoat.com/) - Travel tracking, automated integrations with many platforms listed here (Web).
