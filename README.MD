@@ -27,7 +27,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Articles & Blogs
 
 - [The Personal Analytics of My Life by Stephen Wolfram](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/) - Stephen Wolfram explores the data he has collected on the use of his time.
-- [Measured Me](http://measuredme.com/) - Personal experiment in self-quantification and self-optimization.
 - [Lifestream Blog](http://lifestreamblog.com/) - Social data aggregation, lifelogging, Quantified Self and digital legacy.
 - [Quantified Bob](https://www.quantifiedbob.com/) - Follow one guy's quest for self knowledge, betterment, and optimization through experimentation and personal analytics.
 - [Shadow of the Stream](https://mokestrel.wordpress.com/) - Quantified Self, lifelogging, journaling, education.
@@ -44,7 +43,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 -  [Your life, uploaded: The digital way to better memory, health, and productivity](https://www.amazon.com/Your-Life-Uploaded-Digital-Productivity-ebook/dp/B0043EV52G/) (2010) - Gordon Bell & Jim Gemmell
 - [The Quantified Self](https://www.amazon.com/Quantified-Self-Deborah-Lupton-ebook/dp/B01M0QCSF7/) (2016) - Deborah Lupton
-- [Self-Tracking](https://www.amazon.com/Self-Tracking-MIT-Press-Essential-Knowledge-ebook/dp/B01HNIVBZ4/) (2016) - Gina Neff & Dawn Nafus
 - [Everyday Data Science](https://www.amazon.com/dp/B08TZ1MT3W/ref=cm_sw_r_cp_apa_fabc_a0ceGbWECF9A8) (2021) - Andrew N Carr [(cheaper PDF version)](http://gum.co/everydaydata)
 
 ## Talks
@@ -63,7 +61,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [OpenTracks](https://opentracksapp.com/) - Privacy-respecting offline-capable fitness activity tracker (Android).
 
 ### Places & Travel
-- [RoadGoat](https://www.roadgoat.com/) - Travel tracking, automated integrations with many platforms listed here (Web).
 - [Swarm](https://www.swarmapp.com/) - Point of interest auto-checkins via GPS (iOS & Android).
 - [Arc](https://itunes.apple.com/us/app/arc-app-location-activity/id1063151918) - Track your movements and places visited via GPS (iOS).
 
@@ -78,7 +75,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [FitnessSyncer](https://www.fitnesssyncer.com/) - Joins health and fitness data into a single centralized platform.
 - [IoTool](https://iotool.io/) - Smartphone IoT platform for automation and data collection.
 - [Tictrac](https://tictrac.com/) - Dashboard for health and fitness data (web).
-- [QS Access](https://apps.apple.com/us/app/qs-access/id920297614) - Export Apple Health data into CSV table format (iOS).
+- [VitalTrends](https://vitaltrends.net/) - Personal health intelligence platform that turns your wearable, lab, and lifestyle data into clear long-term trends and actionable insights (web).
 - [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en) - Multi-purpose tracker (Android).
 - [BiomarkerDash](https://github.com/NoTranslationLayer/biomarkerdash) - Simple dashboard to visualize trends in bloodwork biomarkers.
 
@@ -93,14 +90,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Reporter](http://www.reporter-app.com/) - Tracking app that collects data through random surveys (iOS).
 - [Reflect](https://ntl.ai/reflect) - Tracking app with customizable forms and data insights (iOS).
 - [RTracker](https://janerob.com/rTracker/rTracker/iPhone/pages/rTracker-main.html) - Generic, customisable personal data tracker (iOS).
-- [Sink](https://sinkapp.io) - Voice-enabled Lifelogger for tracking anything with automatic sync to Google Sheets (iOS).
 
 ### Diet
 - [MyFitnessPal](http://www.myfitnesspal.com/) - Food tracking and diet plan app (iOS & Android).
 - [Fat Secret](https://www.fatsecret.com/) - Calorie counter and diet tracker for weight loss (iOS & Android).
 - [Cronometer](https://cronometer.com/) - Food, activity, and biometric tracker (iOS & Android).
 - [Zero](https://www.zerofasting.com/) - A simple fasting tracker used for intermittent, circadian rhythm, and custom fasting (iOS & Android). 
-- [Bitesnap](https://www.getbitesnap.com/) - Image based food logging app powered by computer vision (iOS & Android).
 - [Coffee It](https://apps.apple.com/us/app/coffee-it-record-caffeine/id1216049514) - Record Caffeine intake, with database inside & Apple Health sync. (iOS)
 - [HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706) - Super efficient caffeine tracker app with Apple Watch support (iOS and Apple Watch).
 - [Nutriely](https://nutriely.com) - Food and nutrition tracking, diary. Focusing on detailed micro and vitamin breakdown. (Web)
@@ -122,11 +117,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Productive](https://productiveapp.io/) - Habits and daily goals tracker with flexible scheduling, reminders and data export (iOS).
 - [Everyday](https://everyday.app/) - Simple and beautiful habit tracker for the Web, iOS and Android. Has a web extension to add it to your browser's new tab.
 - [Emoji Log](https://emojilog.rosano.ca) - Track habits without streaks using emoji.
-- [Conjure](https://conjure.so) - Habits, goals and time tracker with rules engine, data layer, API, dashboards and more. (Web, Desktop, iOS, Android).
 - [MissionMate](https://www.missionmate.team/) - Virtual Habit Coach for in your groupchat (telegram). Log activities with photos or text, earn points, and compete with friends to build consistent habits together.
 
 ### Health
-- [AlcDroid](http://alcdroid.flx-apps.com/) - Alcohol consumption tracking and BAC calculation app that offers various statistics regarding your drinking behavior (Android).
 
 ### Heart
 - [Instant Heart Rate](http://www.azumio.com/s/instantheartrate/index.html) - Fast and accurate mobile heart rate monitor (iOS, Android, Windows).
@@ -140,7 +133,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Trakt](https://trakt.tv/) - Automatically track TV & movies you're watching (Web, Media Players).
 - [Pocket](https://getpocket.com/)  - Lets you save articles to read later (Web, iOS, Android).
 - [WordCounter](https://wordcounterapp.com/) - Word count tracker for writers (Mac). 
-- [Podcast Tracker](http://www.podcasttracker.com/) -  Lets you log, aggregate and export your podcast listening history (Web).
 
 ### Mind & Cognition
 
@@ -149,7 +141,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [MoodJam](http://moodjam.com/) - Track your moods with colors. (Web only).
 - [iMoodJournal](https://www.imoodjournal.com/) - Mood Tracking on a 10-point scale from Really great to Couldn't be worse. Exportable data. (Android, iOS, Apple Watch).
 - [Perspective](https://itunes.apple.com/us/app/perspective-daily-journal/id1186753097?mt=8) - Journaling to captures Thoughts, Moods, and Interests with the goal of helping you reflect and find perspective. (iOS).
-- [Moods by Mokriya](https://itunes.apple.com/us/app/moods-tracking-for-better-mental-health/id1023271188?mt=8) - Quick track your mood as good, okay or bad. Specify feelings using a word cloud. No data export option. (iOS, Apple Watch).
 
 ### Sleep
 - [Sleep as Android](http://sleep.urbandroid.org/) - Full featured sleep tracker with wearable integration (Android).
@@ -183,7 +174,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Lunch Money](https://lunchmoney.app/) - Web app to import transactions, categorize, and budget.
 - [Firefly III](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
 - [Menot](https://www.menot.xyz) - Simple expense and finance tracker for multiple currencies, including crypto.
-- [Just Simple Finance](https://www.justsimple.finance) - An easy-to-use personal finance app (iOS and Android).
 
 ## Devices and Wearables
 
@@ -195,7 +185,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Whoop](http://whoop.com/) - Athletic performance monitoring.
 - [Zephyr BioHarness](https://www.zephyranywhere.com/products/bioharness-3) - Performance monitoring wearables.
 - [Apple Watch](http://www.apple.com/watch/) - Fitness and other health oriented tracking.
-- [Spire](https://spire.io/) - Activity tracker that determines stress and focus levels by measuring breathing.
 - [Oura Ring](https://ouraring.com/) - Highly-accurate sleep (and activity) tracker worn on the finger that measures HR, HRV, temperature, and movement.
 - [Aidlab](https://www.aidlab.com/) - Smart and hackable wearable, compatible with special T-shirts and chest straps.
 - [Gadgetbridge](https://gadgetbridge.org/) - FOSS fitness tracker app for use with a wide variety of wearables.
