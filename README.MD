@@ -226,6 +226,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Chronicle](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
 - [QS-Schema](https://github.com/QS-Schema/qs-schema) - Open schemes for QS applications.
 - [Datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
+- [shenas](https://github.com/shenas-org/shenas) - Local-first personal analytics platform. Ingests data from health, finance, and activity services into a per-user DuckDB; raw data stays on your device and models train via federated learning.
 
 ## License
 
