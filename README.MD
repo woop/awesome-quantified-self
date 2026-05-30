@@ -113,6 +113,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Taskade](https://www.taskade.com/) - Simple and sharable tasks, checklists, and notes. (Web, iOS & Android).
 
 ### Habits
+- [Trider](https://myhabits.in) - AI-powered habit tracker with streak analytics, smart reminders, and personalized insights ([Android](https://play.google.com/store/apps/details?id=dev.trider.app)).
 - [Habitica](https://habitica.com) - A habit tracking app which treats your goals like a role playing game (Web, iOS & Android).
 - [HabitBull](http://www.habitbull.com/) - A simple mobile habit tracking app to build and track streaks (iOS & Android).
 - [Strides](http://www.stridesapp.com/) - App to track your goals, habits and projects with SMART goal setting (Web, iOS).
