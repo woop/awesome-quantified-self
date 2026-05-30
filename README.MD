@@ -226,6 +226,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Chronicle](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
 - [QS-Schema](https://github.com/QS-Schema/qs-schema) - Open schemes for QS applications.
 - [Datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
+- [Longevity World Cup](https://github.com/nopara73/LongevityWorldCup) - An open source healthspan competition platform with biological age calculators, athlete profiles, and public leaderboards.
 
 ## License
 
