@@ -226,6 +226,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Chronicle](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
 - [QS-Schema](https://github.com/QS-Schema/qs-schema) - Open schemes for QS applications.
 - [Datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
+- [Garmin AI Notifier](https://github.com/deep0410/garmin-ai-notifier) - Free daily pipeline: pull Garmin Connect into SQLite, compute full-history wellness stats, generate a Gemini-written brief, and push to your phone (ntfy/Telegram/email). Runs on GitHub Actions.
 
 ## License
 
