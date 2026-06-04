@@ -81,6 +81,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [QS Access](https://apps.apple.com/us/app/qs-access/id920297614) - Export Apple Health data into CSV table format (iOS).
 - [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en) - Multi-purpose tracker (Android).
 - [BiomarkerDash](https://github.com/NoTranslationLayer/biomarkerdash) - Simple dashboard to visualize trends in bloodwork biomarkers.
+- [HealthSync](https://web-megabytes-projects.vercel.app/apple-health-app-sync) - Sync selected Apple Health data to a private backend API (iOS).
 
 ### Automation
 - [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) - Automation and event triggering app (Android).
