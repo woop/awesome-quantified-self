@@ -81,6 +81,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [QS Access](https://apps.apple.com/us/app/qs-access/id920297614) - Export Apple Health data into CSV table format (iOS).
 - [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en) - Multi-purpose tracker (Android).
 - [BiomarkerDash](https://github.com/NoTranslationLayer/biomarkerdash) - Simple dashboard to visualize trends in bloodwork biomarkers.
+- [LogZero](https://logzero.app) - All-in-one private tracker (mood, food, weight, meds, exercise) with a local correlation engine that surfaces what actually moves your mood and weight; fully on-device, no account (iOS).
 
 ### Automation
 - [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) - Automation and event triggering app (Android).
