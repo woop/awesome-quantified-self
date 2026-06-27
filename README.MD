@@ -104,6 +104,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Coffee It](https://apps.apple.com/us/app/coffee-it-record-caffeine/id1216049514) - Record Caffeine intake, with database inside & Apple Health sync. (iOS)
 - [HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706) - Super efficient caffeine tracker app with Apple Watch support (iOS and Apple Watch).
 - [Nutriely](https://nutriely.com) - Food and nutrition tracking, diary. Focusing on detailed micro and vitamin breakdown. (Web)
+- [Intermittent Fasting: IF24](https://apps.apple.com/us/app/intermittent-fasting-if24/id6738324344) - Free intermittent fasting timer with live metabolic phases; private and offline (iOS).
 
 ### Goals
 - [GoalsOnTrack](http://www.goalsontrack.com/) - Web-based goal setting and tracking software (iOS & Android).
