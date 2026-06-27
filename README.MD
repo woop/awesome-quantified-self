@@ -127,6 +127,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Health
 - [AlcDroid](http://alcdroid.flx-apps.com/) - Alcohol consumption tracking and BAC calculation app that offers various statistics regarding your drinking behavior (Android).
+- [FixFirst](https://fixfirst.health) - Free AI blood test analyzer — upload any lab PDF, get your top 3 health priorities ranked by clinical impact in ~45 seconds. No account required, nothing stored, sex- and age-adjusted thresholds. (Web)
 
 ### Heart
 - [Instant Heart Rate](http://www.azumio.com/s/instantheartrate/index.html) - Fast and accurate mobile heart rate monitor (iOS, Android, Windows).
