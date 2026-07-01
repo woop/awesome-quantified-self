@@ -143,7 +143,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Podcast Tracker](http://www.podcasttracker.com/) -  Lets you log, aggregate and export your podcast listening history (Web).
 
 ### Mind & Cognition
-- [Ori](https://talk-to-me.ideaflow.page/) - Cognitive-health journal that fuses your writing with biometric and wellbeing (WHO-5) data and writes you a reflective letter each evening (Web/PWA, iOS).
+- [Ori](https://github.com/jamyc3/ori-cognitive-health) - Cognitive-health journal that fuses your writing with biometric and wellbeing (WHO-5) data and writes you a reflective letter each evening (Web/PWA, iOS).
 
 ### Mood
 - [MoodCast](https://2appstudio.com/moodcast/) - Keep track of your daily mood & activities (Android).
