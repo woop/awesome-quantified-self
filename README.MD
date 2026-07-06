@@ -207,6 +207,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Aidlab](https://www.aidlab.com/) - Smart and hackable wearable, compatible with special T-shirts and chest straps.
 - [Gadgetbridge](https://gadgetbridge.org/) - FOSS fitness tracker app for use with a wide variety of wearables.
 - [Dreem](https://dreem.com/) - Consumer-grade EEG used to monitor and optimize sleep; it also has pulse oxymeter, bone conduction audio, accelerometer and sonometer.
+- [Polar](https://www.polar.com/) - lab-level heart rate precision wearable with science-backed sleep and recovery guidance.
 
 ## Research and Analysis
 
