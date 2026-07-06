@@ -127,6 +127,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Emoji Log](https://emojilog.rosano.ca) - Track habits without streaks using emoji.
 - [Conjure](https://conjure.so) - Habits, goals and time tracker with rules engine, data layer, API, dashboards and more. (Web, Desktop, iOS, Android).
 - [MissionMate](https://www.missionmate.team/) - Virtual Habit Coach for in your groupchat (telegram). Log activities with photos or text, earn points, and compete with friends to build consistent habits together.
+- [HabitIt](https://habitit.app) - Habit tracker with auto-tapering schedules. Habit chains, automatic pattern detection, money-saved counter, AI insights, Health sync (iOS, Android, Apple Watch, Wear OS).
 
 ### Health
 - [AlcDroid](http://alcdroid.flx-apps.com/) - Alcohol consumption tracking and BAC calculation app that offers various statistics regarding your drinking behavior (Android).
