@@ -192,6 +192,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Firefly III](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
 - [Menot](https://www.menot.xyz) - Simple expense and finance tracker for multiple currencies, including crypto.
 - [Just Simple Finance](https://www.justsimple.finance) - An easy-to-use personal finance app (iOS and Android).
+- [ezBookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
 
 ## Devices and Wearables
 
