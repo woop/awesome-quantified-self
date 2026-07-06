@@ -159,6 +159,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Sleep as Android](http://sleep.urbandroid.org/) - Full featured sleep tracker with wearable integration (Android).
 - [Sleep Cycle](https://www.sleepcycle.com/) - Intelligent alarm clock and sleep tracker (iOS & Android).
 - [Pillow](https://neybox.com/pillow/) - Track your sleep from your Apple Watch or iPhone (iOS). 
+- [CPAP Clarity](https://cpapclarity.com) - Analyzes CPAP and sleep data in your browser and explains it in plain language, with no upload and no account (Web).
 
 ### Tally
 
