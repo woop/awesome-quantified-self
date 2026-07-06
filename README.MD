@@ -233,6 +233,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Dogsheep](https://dogsheep.github.io/) - A collection of data exporters and tools for personal analytics using SQLite and/or Datasette.
 - [Chronicle](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
 - [QS-Schema](https://github.com/QS-Schema/qs-schema) - Open schemes for QS applications.
+- [Screenpipe](https://github.com/screenpipe/screenpipe) - 24/7 local screen and audio recording with AI-powered search. Captures everything you see, say, and hear for personal analytics and lifelogging.
 - [Datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
 - [GoldenCheetah](https://www.goldencheetah.org/) - FOSS software to import and analyse fitness data locally on Linux, MacOS and Windows.
 
