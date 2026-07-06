@@ -224,6 +224,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [23andMe](https://www.23andme.com/) - Genetic testing and analysis.
 - [Open Humans](https://www.openhumans.org/) - Data sharing and project collaboration.
 - [Enlis](https://www.enlis.com/personal_edition.html) - Software to organize and analyze your genomic data.
+- [DeepDNA](https://deepdna.ai) - European AI-powered platform that analyzes your raw DNA data for health, nutrition, and pharmacogenomic insights. GDPR-compliant, EU servers only.
 - [DNA Fit](https://www.dnafit.com/) - Genetic information for fitness and nutrition.
 - [Family Tree DNA](https://www.familytreedna.com/) - Genetic testing for ancestry, family history and genealogy.
 - [Inside Tracker](https://www.insidetracker.com/) - Science-based blood analytics for performance and health.
