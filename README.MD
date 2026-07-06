@@ -224,8 +224,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Open Source Projects
 
 - [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
-- [Flow Dashboard](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
-- [Timeliner](https://github.com/mholt/timeliner) - A data aggregation and and timeline visualization tool.
+- [Timelinize](https://github.com/timelinize/timelinize) - A data aggregation and and timeline visualization tool.
 - [TimelineBuilder](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
 - [Me API](https://github.com/danfang/me-api) - An extensible, personal API with custom integrations.
 - [Memacs](https://github.com/novoid/Memacs) - Visualize your life in Orgmode.
