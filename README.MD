@@ -154,6 +154,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [MoodJam](http://moodjam.com/) - Track your moods with colors. (Web only).
 - [iMoodJournal](https://www.imoodjournal.com/) - Mood Tracking on a 10-point scale from Really great to Couldn't be worse. Exportable data. (Android, iOS, Apple Watch).
 - [Perspective](https://itunes.apple.com/us/app/perspective-daily-journal/id1186753097?mt=8) - Journaling to captures Thoughts, Moods, and Interests with the goal of helping you reflect and find perspective. (iOS).
+- [MirrorNotes](https://mirrornotes.org) - Private AI journaling with on-device mood tracking, daily reflection prompts, and "Ask your journal" queries. All AI (Gemma 3) runs locally — no data ever leaves your device. Free to write forever. (iOS).
 - [Moods by Mokriya](https://itunes.apple.com/us/app/moods-tracking-for-better-mental-health/id1023271188?mt=8) - Quick track your mood as good, okay or bad. Specify feelings using a word cloud. No data export option. (iOS, Apple Watch).
 - [DailyVox](https://getdailyvox.com) - Voice journal that tracks mood and surfaces patterns on-device, building a private "Digital Twin" from your spoken entries. No account or cloud; free and open source (iOS).
 
