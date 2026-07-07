@@ -188,6 +188,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [ActivityWatch](https://activitywatch.net/) - Open source automated time tracker (Mac, Windows, Linux, Android).
 - [Hourly](http://hourly-app.com) - Minimalistic time tracker with smart functions and nice design (iOS).
 - [arbtt](https://arbtt.nomeata.de/) - Automatic, rule-based time tracker, which works by periodically snapshotting the metadata of your desktop window state. Rules are specified in the arbtt DSL and can be written retroactively (Linux, Mac, Windows).
+- [time-ledger](https://github.com/cruisekkk/time-ledger) - Natural language time tracking that parses plain sentences like "read papers 2h, gym 1h" into your own Notion database, asking instead of guessing when unsure (Claude Code, Claude.ai & ChatGPT).
 
 ### Wealth
 - [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
