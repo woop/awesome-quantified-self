@@ -231,6 +231,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Human API](http://humanapi.co/) - Health data integration platform.
 - [FoundMyFitness](https://www.foundmyfitness.com/genetics) - Comprehensive genetic report from on self-uploaded genetic data.
 - [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis) - Interactive personal genome analysis toolkit using Claude Code. Analyzes raw DNA data from 23andMe, AncestryDNA, and others across 17 categories including health risks, pharmacogenomics, nutrition, and longevity.
+- [Verified Supplement Evidence](https://github.com/erinheit451/verified-supplement-evidence) - Open, evidence-graded dataset for supplement self-experimenters covering dosing, bioavailability by form, drug-nutrient interactions, NHANES deficiency prevalence, FDA FAERS adverse-event signals, and cost-per-effective-dose, with every clinical claim citing a PubMed PMID (CC BY 4.0).
 
 ## Open Source Projects
 
