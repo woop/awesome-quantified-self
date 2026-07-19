@@ -171,6 +171,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Pillow](https://neybox.com/pillow/) - Track your sleep from your Apple Watch or iPhone (iOS). 
 - [CPAP Clarity](https://cpapclarity.com) - Analyzes CPAP and sleep data in your browser and explains it in plain language, with no upload and no account (Web).
 - [AirwayLab](https://github.com/airwaylab-app/airwaylab) - Browser-based PAP therapy analysis with flow limitation scoring and an oximetry pipeline. All processing runs locally (Web).
+- [o2ring-analyzer](https://github.com/nighttimecf/o2ring-analyzer) - Command-line analyzer for overnight pulse-oximetry recordings: SpO2 statistics, ODI at 3% and 4% thresholds, desaturation events, nadir, with CSV/JSON/Excel export.
 
 ### Tally
 
