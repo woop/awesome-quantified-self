@@ -231,6 +231,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Human API](http://humanapi.co/) - Health data integration platform.
 - [FoundMyFitness](https://www.foundmyfitness.com/genetics) - Comprehensive genetic report from on self-uploaded genetic data.
 - [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis) - Interactive personal genome analysis toolkit using Claude Code. Analyzes raw DNA data from 23andMe, AncestryDNA, and others across 17 categories including health risks, pharmacogenomics, nutrition, and longevity.
+- [Quanome DNA Explorer](https://www.quanome.com/tools/dna-explorer/) - Free, open-source, 100% client-side reader for 23andMe, AncestryDNA and MyHeritage raw data. Parsed in your browser, nothing uploaded.
 
 ## Open Source Projects
 
