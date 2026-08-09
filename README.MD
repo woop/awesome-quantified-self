@@ -134,6 +134,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [MissionMate](https://www.missionmate.team/) - Virtual Habit Coach for in your groupchat (telegram). Log activities with photos or text, earn points, and compete with friends to build consistent habits together.
 - [HabitIt](https://habitit.app) - Habit tracker with auto-tapering schedules. Habit chains, automatic pattern detection, money-saved counter, AI insights, Health sync (iOS, Android, Apple Watch, Wear OS).
 - [OpenHabitTracker](https://openhabittracker.net) - Free, open source habit tracker with notes and tasks (Web, Windows, Linux, Android, iOS, macOS).
+- [SproutGuard](https://apps.apple.com/app/id6768664921?ct=awesome-quantified-self) - Screen-time detox app for adults who want to block themselves, not be monitored; on-device blocking, focus rules, and a daily streak (iOS).
 
 ### Health
 - [AlcDroid](http://alcdroid.flx-apps.com/) - Alcohol consumption tracking and BAC calculation app that offers various statistics regarding your drinking behavior (Android).
