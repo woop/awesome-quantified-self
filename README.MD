@@ -67,6 +67,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [RoadGoat](https://www.roadgoat.com/) - Travel tracking, automated integrations with many platforms listed here (Web).
 - [Swarm](https://www.swarmapp.com/) - Point of interest auto-checkins via GPS (iOS & Android).
 - [Arc](https://itunes.apple.com/us/app/arc-app-location-activity/id1063151918) - Track your movements and places visited via GPS (iOS).
+- [Matchday Passport](https://apps.apple.com/us/app/matchday-passport/id6792546917) - Log every football match you attend as a stamped passport page with the ground, date, score, photos and video; entries stay on your device unless you choose to publish one (iOS).
 
 ### Aggregators & Dashboards
 - [Apple Health](http://www.apple.com/ios/health/) - Multi-purpose tracking platform for Apple devices. Tracks activities, sleep, nutrition, mindfulness, and other metrics.
