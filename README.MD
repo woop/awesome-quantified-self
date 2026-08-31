@@ -104,6 +104,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [MyFitnessPal](http://www.myfitnesspal.com/) - Food tracking and diet plan app (iOS & Android).
 - [Fat Secret](https://www.fatsecret.com/) - Calorie counter and diet tracker for weight loss (iOS & Android).
 - [Cronometer](https://cronometer.com/) - Food, activity, and biometric tracker (iOS & Android).
+- [Chompass](https://chompass.app/) - FOSS Calorie and food diary with local storage, optional BYOK AI, Barcode/OFF input (Android & browser PWA; [F-Droid](https://f-droid.org/packages/app.chompass)).
 - [Zero](https://www.zerofasting.com/) - A simple fasting tracker used for intermittent, circadian rhythm, and custom fasting (iOS & Android). 
 - [Bitesnap](https://www.getbitesnap.com/) - Image based food logging app powered by computer vision (iOS & Android).
 - [Coffee It](https://apps.apple.com/us/app/coffee-it-record-caffeine/id1216049514) - Record Caffeine intake, with database inside & Apple Health sync. (iOS)
