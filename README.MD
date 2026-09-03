@@ -134,6 +134,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [MissionMate](https://www.missionmate.team/) - Virtual Habit Coach for in your groupchat (telegram). Log activities with photos or text, earn points, and compete with friends to build consistent habits together.
 - [HabitIt](https://habitit.app) - Habit tracker with auto-tapering schedules. Habit chains, automatic pattern detection, money-saved counter, AI insights, Health sync (iOS, Android, Apple Watch, Wear OS).
 - [OpenHabitTracker](https://openhabittracker.net) - Free, open source habit tracker with notes and tasks (Web, Windows, Linux, Android, iOS, macOS).
+- [Wellbody](https://wellbody.me) - Three daily actions across fitness, nutrition, mindfulness, recovery and mobility, adapted from what you log. Syncs with Apple Health and Google Fit (iOS, Android).
 
 ### Health
 - [AlcDroid](http://alcdroid.flx-apps.com/) - Alcohol consumption tracking and BAC calculation app that offers various statistics regarding your drinking behavior (Android).
