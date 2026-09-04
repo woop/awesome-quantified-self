@@ -252,6 +252,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) - Terminal-native LifeOS for personal workflows, habits, and timelogs.
 - [GitStory](https://github.com/pankajkumardev/gitstory-2025) - Generates a "Spotify Wrapped" style visual summary of your yearly GitHub contribution activity.
 - [PGIS](https://github.com/chukwumaonyeije/pgis-manus-skill#readme) - Open-source decision-support framework for optimizing endurance training while managing Type 2 diabetes, integrating CGM, HRV, sleep, and training load data.
+- [Herold](https://github.com/chackrahunter/herold) - Wear OS app that records ECG, heart rate, SpO2, skin temperature, respiration rate and body composition on a Samsung Galaxy Watch on a schedule, keeping the history on the watch, paired with an iPhone and without a Google account.
 
 ## License
 
