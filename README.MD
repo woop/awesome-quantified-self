@@ -252,6 +252,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) - Terminal-native LifeOS for personal workflows, habits, and timelogs.
 - [GitStory](https://github.com/pankajkumardev/gitstory-2025) - Generates a "Spotify Wrapped" style visual summary of your yearly GitHub contribution activity.
 - [PGIS](https://github.com/chukwumaonyeije/pgis-manus-skill#readme) - Open-source decision-support framework for optimizing endurance training while managing Type 2 diabetes, integrating CGM, HRV, sleep, and training load data.
+- [Life Dashboard Companion](https://github.com/owen282000/life-dashboard-companion-app) - Android app that exports Health Connect data (33 types) and screen time to a webhook or to Home Assistant over MQTT, with an iOS counterpart.
 
 ## License
 
