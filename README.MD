@@ -99,6 +99,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [RTracker](https://janerob.com/rTracker/rTracker/iPhone/pages/rTracker-main.html) - Generic, customisable personal data tracker (iOS).
 - [Sink](https://sinkapp.io) - Voice-enabled Lifelogger for tracking anything with automatic sync to Google Sheets (iOS).
 - [Garmin AI Notifier](https://github.com/deep0410/garmin-ai-notifier) - Free daily pipeline that pulls Garmin Connect into SQLite, computes full-history wellness stats, generates a Gemini-written brief, and pushes it to your phone via ntfy, Telegram, or email. Runs on GitHub Actions.
+- [Screenpipe](https://github.com/screenpipe/screenpipe) - Search screen text and audio history for personal analytics and lifelogging. Source-available under the Screenpipe Commercial License; history is local by default, with optional cloud processing.
 
 ### Diet
 - [MyFitnessPal](http://www.myfitnesspal.com/) - Food tracking and diet plan app (iOS & Android).
@@ -244,7 +245,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) - Self-hosted CLI that reads BLE smart scales (23 brands), calculates body composition (fat %, muscle, BMR, etc.), and exports to Garmin Connect, MQTT, InfluxDB, Webhook, and Ntfy. [Website](https://blescalesync.dev).
 - [Chronicle](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
 - [QS-Schema](https://github.com/QS-Schema/qs-schema) - Open schemes for QS applications.
-- [Screenpipe](https://github.com/screenpipe/screenpipe) - 24/7 local screen and audio recording with AI-powered search. Captures everything you see, say, and hear for personal analytics and lifelogging.
 - [Datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
 - [GoldenCheetah](https://www.goldencheetah.org/) - FOSS software to import and analyse fitness data locally on Linux, MacOS and Windows.
 - [Longevity World Cup](https://github.com/nopara73/LongevityWorldCup) - Open source healthspan competition platform with biological age calculators, athlete profiles, and public leaderboards.
