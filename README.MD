@@ -153,6 +153,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Pocket](https://getpocket.com/)  - Lets you save articles to read later (Web, iOS, Android).
 - [WordCounter](https://wordcounterapp.com/) - Word count tracker for writers (Mac). 
 - [Podcast Tracker](http://www.podcasttracker.com/) -  Lets you log, aggregate and export your podcast listening history (Web).
+- [WatchTrail](https://watchtrail.app/) - Free, ad-free tracker for TV shows and movies. Imports TV Time, Trakt, Simkl, IMDb and Letterboxd exports, keeping original watch dates.
 
 ### Mind & Cognition
 
