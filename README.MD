@@ -155,6 +155,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Podcast Tracker](http://www.podcasttracker.com/) -  Lets you log, aggregate and export your podcast listening history (Web).
 
 ### Mind & Cognition
+- [IQMAXXING](https://iqmaxxing.org/) - Free working-memory and attention drills (n-back, span, go/no-go, Stroop, reaction time) that log each run's level, accuracy and speed, chart them over time and export them as JSON. No account needed (Web).
 
 ### Mood
 - [MoodCast](https://2appstudio.com/moodcast/) - Keep track of your daily mood & activities (Android).
