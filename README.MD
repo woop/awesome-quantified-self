@@ -62,6 +62,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Gym Hero](https://gymhero.me/) - Track workouts, strength training and other fitness exercise (iOS, Web)
 - [OpenTracks](https://opentracksapp.com/) - Privacy-respecting offline-capable fitness activity tracker (Android).
 - [Smart Runner](https://runnerapp.pro/) - Privacy-respecting on-device running and marathon training coach with adaptive plans (iOS & Apple Watch).
+- [Diastra](https://diastra.app/) - Heart rate training for iPhone and Apple Watch that draws Easy, Threshold and VO₂max bands from your own max heart rate.
 
 ### Places & Travel
 - [RoadGoat](https://www.roadgoat.com/) - Travel tracking, automated integrations with many platforms listed here (Web).
