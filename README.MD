@@ -39,6 +39,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Gwern](http://www.gwern.net/) - Esoteric blog which includes blinded self-experiments & Quantified Self analyses amongst other topics.
 - [beepb00p](https://beepb00p.xyz) - Writing about Quantified Self, owning the data and building the infrastructure.
 - [QS Experiments](https://blog.kto.to) - Science-based approach for Quantified Self, sharing raw data and analysis, modelling physical processes, health trackers comparison and analysis.
+- [HackedSelf](https://hackedself.com/) - Evidence audits of biohacking protocols: readiness scores, HRV bands, dose math, and what self-tracked numbers actually measure.
 
 
 ## Books
